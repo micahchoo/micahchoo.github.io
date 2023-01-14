@@ -22,10 +22,12 @@ tags: Index-Page
 - [[Speculative Storytelling in Wayanad]]
 - [[Condom Ads- A Commentary]]
 - [[Making The Invisible Visible Around An RO Plant]]
-- [[Innovation For Dummies - A podcast]]
+- [[Innovation For Dummies - A podcast]] 
 - [[Compost Magazine - Technofutures from Bidar]]
 - [[Designer's Ace]]
 - [[Carpooling Unalone - Karwaan]]
+- [[Milli Archival Consortia]]
+- 
 
 ***
 

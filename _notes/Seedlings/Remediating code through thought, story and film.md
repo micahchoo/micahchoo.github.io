@@ -11,6 +11,9 @@ authors: Shafali, Dinesh, Bhanu, Micah
 
 # Remediating thought, story, film, code
 
+[Coding Is for Everyone—as Long as You Speak English | WIRED](https://www.wired.com/story/coding-is-for-everyoneas-long-as-you-speak-english/)
+
+
 1. How do you introduce computational thinking in low-literate contexts using non-linear, media-centric programming metaphors?
 2. What are the rules and grammar of this metaphor?
 
