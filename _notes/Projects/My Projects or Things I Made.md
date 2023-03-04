@@ -26,7 +26,7 @@ tags: Index-Page
 - [[Compost Magazine - Technofutures from Bidar]]
 - [[Designer's Ace]]
 - [[Carpooling Unalone - Karwaan]]
-- [[Milli Archival Consortia]]
+- [[Milli Archival Consortium]]
 - 
 
 ***
