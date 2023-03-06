@@ -1,19 +1,20 @@
 ---
 tags: UX-Design Archives Annotations Controlled-Vocabularies
 ---
-*## The Scene: https://milli.link
 
-After the International Archives Week 2020, Venkat from NCBS, Dinesh and Bhanu from Janastu and Prasoon who was ex-QAMRA came together to build a platform, to create a consortium of archives under the banner of **Milli**. 
+_**The Scene: https://milli.link**
+
+_After the International Archives Week 2020, Venkat from NCBS, Dinesh and Bhanu from Janastu and Prasoon who was ex-QAMRA came together to build a platform, to create a consortium of archives under the banner of **Milli**. 
 It was around this time that Shafali and I, applied as UX Designers to this budding organisation. Milli.Tech worked for a year after that from Sept 2020 to Oct 2021*
 
+_During this time, we attempted to design a platform that attempts to democratise the Archive. This is the story of that journey though quite specific to my experience through the topic.
 
-During this time, we attempted to design a platform that attempts to democratise the Archive. This is the story of that journey though quite specific to my experience through the topic.
+_I came in with a vague idea of what an Archive was. I would still be hard-pressed to tell you how different an Archive is from a museum or a library. I did understand that Milli wanted Archives to be more like a library or the inside of a well-loved book. A place for [Marginalia](https://en.wikipedia.org/wiki/Marginalia), play, learning and creativity. 
 
-I came in with a vague idea of what an Archive was. I would still be hard-pressed to tell you how different an Archive is from a museum or a library. I did understand that Milli wanted Archives to be more like a library or the inside of a well-loved book. A place for [Marginalia](https://en.wikipedia.org/wiki/Marginalia), play, learning and creativity. 
+_If you would like to know about more archives, I host a list here [South Asia - Awesome Digital History](https://micahchoo.github.io/awesome-digital-history-South-Asia)
 
-If you would like to know about more archives, I host a list here [South Asia - Awesome Digital History](https://micahchoo.github.io/awesome-digital-history-South-Asia)
+_Anyway back to the basics as I learnt them-- _
 
-Anyway back to the basics as I learnt them--
 
 
 ## What is an archive
