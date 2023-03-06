@@ -57,27 +57,27 @@ main {
 
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
 h1 {
-    font-size: 29px;
+    font-size: 2rem;
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 1.5rem;
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 1.17rem;
 }
 
 h4 {
-    font-size: 19px;
+    font-size: 1.00rem;
 }
 
 h5 {
-    font-size: 16px;
+    font-size: 0.83rem;
 }
 
 h6 {
-    font-size: 13px;
+    font-size: 0.67rem;
 }
 
 h1,
@@ -101,7 +101,7 @@ span,
 blockquote {
     color: #555555;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 18px;
+    font-size: 1rem;
 
     /* Let's set the font-size to something old-man friendly */
 }
@@ -220,11 +220,11 @@ td {
     color: #555;
     padding: 8px;
     text-align: left;
-    font-size: 12px;
+    font-size: 1rem;
 }
 
 td {
-    font-size: 14px;
+    font-size: 1.17rem;
 }
 
 td a {
@@ -239,7 +239,7 @@ td a {
 
 .item-title span {
     color: #aaa;
-    font-size: 12px;
+    font-size: 1rem;
     font-weight: 400;
 }
 
@@ -333,7 +333,7 @@ hr {
 .username {
     padding-top: 15px;
     padding-left: 20px;
-    font-size: 16px;
+    font-size: 1.17rem;
     font-weight: 600;
 	color: #222222;
 	
@@ -363,7 +363,7 @@ hr {
     color: #4183c4;
     text-decoration: none;
     font-family: 'IBM Plex Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 15px;
+    font-size: 1rem;
     margin-left: -3px;
 }
 
@@ -419,7 +419,7 @@ hr {
     margin-left: auto;
     text-align: center;
     font-weight: 600;
-    font-size: 0.7rem;
+    font-size: 0.83rem;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     color: #555555;
 }
@@ -483,7 +483,7 @@ a {
     text-decoration: none;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
-    font-size: 13px;
+    font-size: 0.83px;
     font-stretch: ultra-condensed;
     padding-left: 5px;
 }
@@ -496,7 +496,7 @@ a {
 
 .notes-page-heading {
     color: #555555;
-    font-size: 15px;
+    font-size: 1.17rem;
     font-weight: 600;
     padding-top: 15px;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -666,14 +666,14 @@ a {
     border: 0px;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #b252a1;
-    font-size: 18px;
+    font-size: 1.5rem;
     border-bottom: 1px solid #f7f7f7;
     background-color: #fde2ff;
 }
 
 ::placeholder {
     color: #999;
-    font-size: 18px;
+    font-size: 1.5rem;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
 }
 
@@ -776,7 +776,7 @@ a {
     color: #073c00;
     margin-left: 20px;
     margin-right: 50px;
-    font-size: 16px;
+    font-size: 1.5rem;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }
@@ -787,7 +787,7 @@ a {
     margin-left: 20px !important;
     margin-right: 30px;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 1rem;
 }
 
 .tags {
@@ -813,7 +813,7 @@ a {
     vertical-align: middle;
     font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal !important;
-    font-size: 13px;
+    font-size: 1rem;
 }
 
 .content a {
@@ -830,7 +830,7 @@ a {
     float: right;
     clear: right;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
-    font-size: 14px;
+    font-size: 1rem;
     margin-right: -45%;
     width: 40%;
     margin-top: 0;
@@ -845,7 +845,7 @@ a {
     float: left;
     clear: left;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
-    font-size: 13px;
+    font-size: 1rem;
     margin-left: -20%;
     width: 10%;
     margin-top: 0;
@@ -869,7 +869,7 @@ a {
 
 .sidenote-number:after {
     content: counter(sidenote-counter);
-    font-size: 12px;
+    font-size: 0.83rem;
     top: -0.5rem;
     left: 0.1rem;
 }
@@ -877,7 +877,7 @@ a {
 .sn-right:before,
 .sn-left:before {
     content: counter(sidenote-counter) " ";
-    font-size: 14px;
+    font-size: 0.83rem;
     top: -0.5rem;
 }
 
@@ -937,7 +937,7 @@ li .mn-right {
     color: #555;
     background-color: #fff;
     font-weight: normal;
-    font-size: 13px;
+    font-size: 0.83rem;
     border-radius: 8px;
     position: absolute;
     z-index: 99999999;
@@ -973,18 +973,18 @@ li .mn-right {
 }
 
 .right .tooltip-title {
-    font-size: 15px;
+    font-size: 1.17rem;
     font-weight: 600;
     display: inline-block;
 }
 
 .right .tooltip-excerpt {
-    font-size: 12px;
+    font-size: 1rem;
     display: inline-block;
 }
 
 .right .tooltip-excerpt a {
-    font-size: 12px;
+    font-size: 1rem;
 }
 
 input.margin-toggle {
@@ -1004,7 +1004,7 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 .spaced-rep {
-    font-size: 20px;
+    font-size: 1.17rem;
     display: none;
 }
 
@@ -1031,7 +1031,7 @@ label.srs-toggle {
     border-radius: 5px;
     box-shadow: 1px 1px 15px #cfcfcf;
     word-wrap: break-word;
-    font-size: 20px;
+    font-size: 1.5rem;
 }
 
 .related {
