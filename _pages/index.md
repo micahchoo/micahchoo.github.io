@@ -10,9 +10,8 @@ content-type: eg
 > #### have found micah.alex on the www
 ##### here are the links to 
 
----
 [My portfolio](https://khattamicah.tumblr.com)
----
+
 
 ### [[Random Tutorials I am Collecting]]
 
@@ -26,6 +25,4 @@ content-type: eg
 
 ### [[otherthings about me]]
 
-### [[DigSite]]
 
-[My portfolio](https://khattamicah.tumblr.com)
