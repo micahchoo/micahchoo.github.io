@@ -9,9 +9,11 @@ content-type: eg
 ## Hi, there you seem to 
 > #### have found micah.alex on the www
 ##### here are the links to 
+
 ---
 [My portfolio](https://khattamicah.tumblr.com)
 ---
+
 ### [[Random Tutorials I am Collecting]]
 
 ### [[Review of my readings]]
