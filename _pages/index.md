@@ -26,3 +26,10 @@ content-type: eg
 ### [[otherthings about me]]
 
 
+<!-- The tracker used is from insights, a cookieless, privacy-centric tracker-->
+<script src="https://getinsights.io/js/insights.js"></script>
+<script>
+insights.init('slvaMWvsRVntTw2h');
+insights.trackPages();
+</script>
+
