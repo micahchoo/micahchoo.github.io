@@ -1,0 +1,106 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "label": "My IIIF Manifest",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Default order",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "label": "DSC_1448.jpg",
+                    "thumbnail": {
+                        "@id": "https://cantaloupe.livinglabs.network/images/Toor dal Wholesale market/Bulllock carts community/DSC_1448.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1448.jpg",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1448.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "height": 1024,
+                                "width": 1024,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1448.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "https://cantaloupe.livinglabs.network/images/Toor dal Wholesale market/Bulllock carts community/DSC_1448.jpg"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "label": "DSC_1449 copia.jpg",
+                    "thumbnail": {
+                        "@id": "https://cantaloupe.livinglabs.network/images/Toor dal Wholesale market/Bulllock carts community/DSC_1449 copia.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1449 copia.jpg",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1449 copia.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "height": 1024,
+                                "width": 1024,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1449 copia.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "https://cantaloupe.livinglabs.network/images/Toor dal Wholesale market/Bulllock carts community/DSC_1449 copia.jpg"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "label": "DSC_1517.jpg",
+                    "thumbnail": {
+                        "@id": "https://cantaloupe.livinglabs.network/images/Toor dal Wholesale market/Bulllock carts community/DSC_1517.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1517.jpg",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1517.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "height": 1024,
+                                "width": 1024,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://cantaloupe.livinglabs.network/iiif/2/Toor dal Wholesale market/Bulllock carts community/DSC_1517.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "https://cantaloupe.livinglabs.network/images/Toor dal Wholesale market/Bulllock carts community/DSC_1517.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
