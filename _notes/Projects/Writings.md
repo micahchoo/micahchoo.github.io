@@ -1,3 +1,6 @@
+---
+---
+
 |                                                                                                                                                Piece |                                                                                                                                                                                                                                                 Description |                                   Tags |  
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|  
 |                                         [Compost Magazine - Technofutures from Bidar](https://one.compost.digital/fertile-technofutures-from-bidar/) |                                                                        This piece is a group reflection of a project run in Bidar, India, to set up a community mesh network facilitated by Living Labs Network and Forum, Team YUVAA and Janastu/Servelots |              #opensource #CN #wireless |  
