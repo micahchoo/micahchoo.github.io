@@ -25,6 +25,14 @@ content-type: eg
 
 ### [[otherthings about me]]
 
+<ul>
+  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+  {% for note in recent_notes limit: 5 %}
+    <li>
+      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <!-- The tracker used is from insights, a cookieless, privacy-centric tracker-->
 <script src="https://getinsights.io/js/insights.js"></script>
