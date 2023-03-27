@@ -17,7 +17,7 @@ tags: Index-Page
 - [[What is Innovation for India]]
 - [[Trustworthy AI - A Sensory Firewall]]
 - [[Srishti SDB Studio - Reading List]]
-- [[Carefull Collectives and their Care Practices]]
+- [Carefull Collectives and their Care Practices](https://osf.io/ds39u)
 - [[Invisible Cities - Koramangala]]
 - [[Speculative Storytelling in Wayanad]]
 - [[Condom Ads- A Commentary]]

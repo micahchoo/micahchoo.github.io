@@ -15,7 +15,8 @@ linter-yaml-title-alias: The Impostor Among Us
 
 🔮 "How do platforms compel/enable the manufacturing of "truth" and "ignorance"? And what does that mean in the context of live-streaming politicians"
 
->*These are notes from a Design Baithak hosted by Micah and Paul*
+>*These are notes from a presentation (Design Baithak) hosted by Micah and Paul*
+
 
 ---
 
