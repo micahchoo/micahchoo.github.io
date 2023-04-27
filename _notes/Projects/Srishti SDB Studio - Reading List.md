@@ -7,14 +7,11 @@ compiler:
 category:
 ---
 
-# Srishti SDB Studio - Reading List
 
-[[Srishti SDB Studio Reflections]]
 
-[[Srishti SDB Studio]]
 
-This was the reading list for a course that Naveen, Navin, Siddhant and I co-facilitated for 4th year HCD students. One of the thematics (that Navin and I led) focused on understanding and exploring gathering spaces, or spaces where humans and non-humans come together. We wanted to experiment with multiple practices of situated making as a form of creative practice. Our goal was to unravel questions about learning from, being in, and making in gathering spaces, as well as using metaphors from these spaces to inform an "HCD" practice. The students engaged in a range of activities such as visiting and mapping the site, reading literature, building artifacts, cross-annotating and co-iterating with collaborators, and participating in different roles within the space. The importance of honesty, speculation, seeing and connecting diverse experiences and knowledge, and making as critical vehicles of inquiry started to become apparent.
 
+[[Srishti Studio Notes]]
 
 
 ---
@@ -31,21 +28,6 @@ https://www.news18.com/news/buzz/bengalurus-repair-cafe-is-helping-you-fix-all-y
 
 [Bangalore Pete | Placing Bengaluru](https://aturquoisecloud.wordpress.com/category/bangalore-pete)/
 
-``csvtable
-
-source: Gallery/Srishti - SDB-design.csv
-
-columns: 
-
-- Description
-- Text
-- Link
-`
-Description
-
-Text
-
-Link
 
 This is the video that we watched on 19th August in the class .
 

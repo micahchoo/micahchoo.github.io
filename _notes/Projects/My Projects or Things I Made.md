@@ -16,7 +16,7 @@ tags: Index-Page
 - [[The Disenfranchisement of Adivasis in Kerala]]
 - [[What is Innovation for India]]
 - [[Trustworthy AI - A Sensory Firewall]]
-- [[Srishti SDB Studio - Reading List]]
+- [[Srishti Studio Notes]]
 - [Carefull Collectives and their Care Practices](https://osf.io/ds39u)
 - [[Invisible Cities - Koramangala]]
 - [[Speculative Storytelling in Wayanad]]
