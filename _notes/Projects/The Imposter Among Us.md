@@ -18,6 +18,8 @@ linter-yaml-title-alias: The Impostor Among Us
 >*These are notes from a presentation (Design Baithak) hosted by Micah and Paul*
 
 
+https://twitter.com/blnaveen/status/1321689139327066112
+
 ---
 
 # TL;DR
