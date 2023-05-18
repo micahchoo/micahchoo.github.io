@@ -2,6 +2,7 @@
   --color-primary: hsl(190, 10%, 20%);
   --color-secondary: hsl(190, 100%, 40%);
   --color-text: hsl(165, 5%, 40%);
+  --color-footer: hsl(165, 5%, 30%);
   --color-subtext: hsl(0, 0%, 30%);
   --color-border: #f3539b;
   --color-box-background: linear-gradient(hsla(166, 55%, 71%, 0.2), hsla(166, 55%, 51%, 0.2));
@@ -184,7 +185,7 @@ hr {
 footer {
   margin: 2em 0;
   font-size: 1em;
-  color: mix(#{$color-text}, white, 50%);
+  color: var(--color-footer);
   padding-top: 1em;
 }
 
