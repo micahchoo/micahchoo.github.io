@@ -128,8 +128,7 @@ time {
   font-size: 0.9em;
   object-fit: contain;
   border-radius: 4px;
-  background: linear-gradient(hsla(333, 87%, 64%, 0.2), #fff1e6);
-  mix-blend-mode: overlay;
+  background: linear-gradient(hsla(333, 87%, 64%, 0.4), #fff1e6);
   padding: 2em;
   box-shadow: 0 6px 20px 0 rgba(12, 248, 252, 0.2);
 }
@@ -158,7 +157,7 @@ time {
   border-radius: 4px;
   color: #f6f6f6;
   display: inline-block;
-  font-family: 'WixMadeforDisplay', sans-serif;
+  font-family: 'WixMadeforDisplay-Medium', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   margin: 0.5em;
@@ -206,11 +205,10 @@ blockquote {
   border-radius: $border-radius;
 }
 
-p {
+p, li {
     margin: 0;
-    font-family: 'WixMadeforDisplay', sans-serif;
+    font-family: 'WixMadeforDisplay-Medium', sans-serif;
 	font-size:1.2em;
-
   }
 
 hr {
@@ -275,8 +273,8 @@ h6:hover .header-link {
 
 a {
   transition: background 300ms;
-  font-family: 'WixMadeforDisplay', sans-serif;
-  font-size: 1rem;
+  font-family: 'WixMadeforDisplay-Medium', sans-serif;
+  font-size: 0.9rem;
   line-height: 1.5;
   padding: 0 0.1em;
   text-decoration: none;
@@ -360,8 +358,8 @@ nav {
   border-radius: $border-radius;
   color: #f6f6f6;
   display: inline-block;
-  font-family: 'WixMadeforDisplay', sans-serif;
-  font-size: 1rem;
+  font-family: 'WixMadeforDisplay-Medium', sans-serif;
+  font-size: 0.8rem;
   line-height: 1.5;
   margin: 0.5em;
   padding: 0.3em 0.6em;
