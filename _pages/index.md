@@ -5,26 +5,19 @@ permalink: /index
 content-type: eg  
 ---  
 
-
-## Hi, there you seem to 
-> #### have found micah.alex on the www
-##### here are the links to 
-
+## Featured
 [My portfolio](https://khattamicah.tumblr.com)
 
+### Paths to travel 
+1. [[Random Tutorials I am Collecting]]
+2. [[Review of my readings]]
+3. [[My Projects or Things I Made]]
+4. [[I am hoarding a bunch of things]]
+5. [[my baby ideas - slowww thinking]]
+6. [[otherthings about me]]
 
-### [[Random Tutorials I am Collecting]]
 
-### [[Review of my readings]]
-
-### [[My Projects or Things I Made]]
-
-### [[I am hoarding a bunch of things]]
-
-### [[my baby ideas - slowww thinking]]
-
-### [[otherthings about me]]
-
+### Recently updated
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
