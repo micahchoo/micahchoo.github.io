@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 class BidirectionalLinksGenerator < Jekyll::Generator
   def slugify(text)
-    text.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+   text.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   end
-
   def generate(site)
     graph_nodes = []
     graph_edges = []
@@ -15,6 +14,8 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 
+    # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
+    # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
       all_docs.each do |note_potentially_linked_to|
         note_title_regexp_pattern = Regexp.escape(
@@ -32,41 +33,43 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         base_url = site.baseurl
         note_url = note_potentially_linked_to.url.split("/").map { |part| slugify(part) }.join("/")
         new_href = "#{base_url}#{note_url}#{link_extension}"
-
-        # Prepare the anchor tag template, to be used in gsub
         anchor_tag = "<a class='internal-link' href='#{new_href}\\2'>\\1</a>"
 
-        # Regex part to capture optional section
-        section_regex = "(#[^\\]]*?)?"
-
         # Replace double-bracketed links with label using note title
+        # [[A note about cats|this is a link to the note about cats]]
         current_note.content.gsub!(
-          /\[\[#{note_title_regexp_pattern}#{section_regex}\|(.+?)(?=\])\]\]/i,
-          anchor_tag.gsub("\\2", "#{slugify("\\2")}")  # replace the \\2 placeholder in the anchor tag with the slugified section
+          /\[\[#{note_title_regexp_pattern}(#.*?)?\|(.+?)(?=\])\]\]/i, # Added (#.*?)? to match optional #section
+          anchor_tag
         )
 
         # Replace double-bracketed links with label using note filename
+        # [[cats|this is a link to the note about cats]]
         current_note.content.gsub!(
-          /\[\[#{title_from_data}#{section_regex}\|(.+?)(?=\])\]\]/i,
-          anchor_tag.gsub("\\2", "#{slugify("\\2")}")
+          /\[\[#{title_from_data}(#.*?)?\|(.+?)(?=\])\]\]/i,
+          anchor_tag
         )
 
         # Replace double-bracketed links using note title
+        # [[a note about cats]]
         current_note.content.gsub!(
-          /\[\[(#{title_from_data}#{section_regex})\]\]/i,
-          anchor_tag.gsub("\\2", "#{slugify("\\2")}")
+          /\[\[(#{title_from_data}(#.*?)?)\]\]/i,
+          anchor_tag
         )
 
         # Replace double-bracketed links using note filename
+        # [[cats]]
         current_note.content.gsub!(
-          /\[\[(#{note_title_regexp_pattern}#{section_regex})\]\]/i,
-          anchor_tag.gsub("\\2", "#{slugify("\\2")}")
+          /\[\[(#{note_title_regexp_pattern})(#.*?)?\]\]/i,
+          anchor_tag
         )
       end
 
+      # At this point, all remaining double-bracket-wrapped words are
+      # pointing to non-existing pages, so let's turn them into disabled
+      # links by greying them out and changing the cursor
       current_note.content = current_note.content.gsub(
-        /\[\[([^\]]+)\]\]/i,
-        <<~HTML.delete("\n")
+        /\[\[([^\]]+)\]\]/i, # match on the remaining double-bracket links
+        <<~HTML.delete("\n") # replace with this HTML (\\1 is what was inside the brackets)
           <span title='There is no note that matches this link.' class='invalid-link'>
             <span class='invalid-link-brackets'>[[</span>
             \\1
@@ -75,19 +78,24 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       )
     end
 
+    # Identify note backlinks and add them to each note
     all_notes.each do |current_note|
+      # Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
         e.content.include?(current_note.url)
       end
 
+      # Nodes: Graph
       graph_nodes << {
         id: note_id_from_note(current_note),
         path: "#{site.baseurl}#{current_note.url}#{link_extension}",
         label: current_note.data['title'],
       } unless current_note.path.include?('_notes/index.html')
 
+      # Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note
 
+      # Edges: Graph
       notes_linking_to_current_note.each do |n|
         graph_edges << {
           source: note_id_from_note(n),
