@@ -1,25 +1,26 @@
-$color-primary: hsl(190, 10%, 20%);
-$color-secondary: hsl(190, 100%, 40%);
-$color-text: hsl(165, 5%, 40%);
-$color-subtext: hsl(0, 0%, 30%);
-$color-border: #f3539b;
-$color-box-background: linear-gradient(hsla(166, 55%, 71%, 0.2),hsla(166, 55%, 51%, 0.2));
-$border-radius: 4px;
-/*$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;*/
-  
- .fa-solid, 
- .fa-brands{
-    border-radius: 0.2em;
-    --fa-li-margin:0 0.35em 0.35em 0;
-	opacity: 0.1;
-	line-height: 1.5;
-  }  
+:root {
+  --color-primary: hsl(190, 10%, 20%);
+  --color-secondary: hsl(190, 100%, 40%);
+  --color-text: hsl(165, 5%, 40%);
+  --color-subtext: hsl(0, 0%, 30%);
+  --color-border: #f3539b;
+  --color-box-background: linear-gradient(hsla(166, 55%, 71%, 0.2), hsla(166, 55%, 51%, 0.2));
+  --border-radius: 4px;
+}
+
+.fa-solid,
+.fa-brands {
+  border-radius: 0.2em;
+  --fa-li-margin: 0 0.35em 0.35em 0;
+  opacity: 0.1;
+  line-height: 1.5;
+}
+
 .header-container {
   object-fit: scale-down;
   border-radius: 10px;
   box-shadow: 0 6px 20px 0 rgba(12, 248, 252, 0.2);
-  background: linear-gradient(hsla(333, 87%, 64%, 0.2), #fff1e6);
+  background: linear-gradient(var(--color-primary) 20%, #fff1e6);
   max-height: 100%;
   max-width: 100%;
 }
@@ -61,8 +62,7 @@ $border-radius: 4px;
 .header-links a i {
   height: 0.85em;
 }
-  
-  
+
 @font-face {
   font-style: normal;
   font-weight: 400;
@@ -70,6 +70,7 @@ $border-radius: 4px;
   font-family: 'Balthazar';
   src: url('/assets/Balthazar.woff2') format('woff2');
 }
+
 @font-face {
   font-style: normal;
   font-weight: 400;
@@ -77,14 +78,15 @@ $border-radius: 4px;
   font-family: 'Syncopate';
   src: url('/assets/Syncopate.woff2') format('woff2');
 }
+
 body {
   background: linear-gradient(to right, #fff1e6, #f6f6f7);
   box-sizing: content-box;
   margin: 0 auto;
   line-height: 1.7;
   padding: 4vh 6vw;
-  overflow-x: hidden ;
-  color: $color-text;
+  overflow-x: hidden;
+  color: var(--color-text);
   max-width: 65rem;
 
   @media (min-width: 720px) {
@@ -94,9 +96,10 @@ body {
 
 time {
   display: block;
-  color: $color-subtext;
+  color: var(--color-subtext);
   margin: 0.5em 0 1em;
 }
+
 .content {
   font-size: 1em;
 }
@@ -113,7 +116,7 @@ time {
 .page-connection-note {
   font-size: 0.9em;
   object-fit: contain;
-  border-radius: 4px;
+  border-radius: var(--border-radius);
   background: linear-gradient(hsla(333, 87%, 64%, 0.1), #fff1e6);
   padding: 2em;
   box-shadow: 0 6px 20px 0 rgba(12, 248, 252, 0.2);
@@ -121,10 +124,11 @@ time {
   margin-top: 2em;
   margin-bottom: 2em;
 }
+
 .connection-box {
   font-size: 0.9em;
   object-fit: contain;
-  border-radius: 4px;
+  border-radius: var(--border-radius);
   background: linear-gradient(hsla(333, 87%, 64%, 0.2), #fff1e6);
   mix-blend-mode: overlay;
   padding: 2em;
@@ -151,8 +155,8 @@ time {
 }
 
 .tag {
-  border: 1px solid #f3539b;
-  border-radius: 4px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
   color: #f6f6f6;
   display: inline-block;
   font-family: 'Balthazar', sans-serif;
@@ -174,13 +178,13 @@ hr {
   border: 0;
   height: 1px;
   margin: 1em 0;
-  background: $color-border;
+  background: var(--color-border);
 }
 
 footer {
   margin: 2em 0;
   font-size: 1em;
-  color: mix($color-text, white, 50%);
+  color: mix(var(--color-text), white, 50%);
   padding-top: 1em;
 }
 
@@ -188,9 +192,9 @@ img {
   display: block;
   margin: 0 auto;
   max-height: 60vh;
-  border-radius: $border-radius;
-  object-fit: cover; /* Make the image cover the container while maintaining its aspect ratio */
-  width: 100%; /* Make the width of the image fill the container */
+  border-radius: var(--border-radius);
+  object-fit: cover;
+  width: 100%;
   overflow: hidden;
 }
 
@@ -198,59 +202,82 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.9em;
-  background: $color-box-background;
-  border-radius: $border-radius;
+  background: var(--color-box-background);
+  border-radius: var(--border-radius);
 }
 
 p {
-    margin: 0;
-	font-family: 'Balthazar', sans-serif;
-	font-size:1.2em;
-
-  }
+  margin: 0;
+  font-family: 'Balthazar', sans-serif;
+  font-size: 1.2em;
+}
 
 hr {
   width: 100%;
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: $color-border;
-}
-html {
-  font-size: 16px; /* Set the base font size */
-}
-h1{
-   font-family: 'Syncopate', serif;
-   margin-block-start: 0.67em; margin-block-end: 0.67em; font-size: 2.00em; font-weight: bold;
-   color: hsla(333, 87%, 64%, 1);
+  background: var(--color-border);
 }
 
-h2{
-	margin-block-start: 0.83em; margin-block-end: 0.83em; font-size: 1.50em; font-weight: bold;
-	font-family: 'Syncopate', serif;
-	color: hsla(333, 87%, 64%, 1);
+html {
+  font-size: 16px;
 }
-h3{
+
+h1 {
+  font-family: 'Syncopate', serif;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  font-size: 2.00em;
+  font-weight: bold;
+  color: hsla(333, 87%, 64%, 1);
+}
+
+h2 {
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  font-size: 1.50em;
+  font-weight: bold;
   font-family: 'Syncopate', serif;
   color: hsla(333, 87%, 64%, 1);
-  margin-block-start: 1.00em; margin-block-end: 1.00em; font-size: 1.17em; font-weight: bold;
-  }
+}
+
+h3 {
+  font-family: 'Syncopate', serif;
+  color: hsla(333, 87%, 64%, 1);
+  margin-block-start: 1.00em;
+  margin-block-end: 1.00em;
+  font-size: 1.17em;
+  font-weight: bold;
+}
+
 h4 {
   font-family: 'Syncopate', serif;
   color: hsla(333, 87%, 64%, 1);
-  margin-block-start: 1.33em; margin-block-end: 1.33em; font-size: 1.00em; font-weight: bold;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  font-size: 1.00em;
+  font-weight: bold;
 }
+
 h5 {
   font-family: 'Syncopate', serif;
   color: hsla(333, 87%, 64%, 1);
-  margin-block-start: 1.67em; margin-block-end: 1.67em; font-size: 0.83em; font-weight: bold;
-  }
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  font-size: 0.83em;
+  font-weight: bold;
+}
 
 h6 {
   font-family: 'Syncopate', serif;
   color: hsla(333, 87%, 64%, 1);
-  margin-block-start: 2.33em; margin-block-end: 2.33em; font-size: 0.67em; font-weight: bold;
+  margin-block-start: 2.33em;
+  margin-block-end: 2.33em;
+  font-size: 0.67em;
+  font-weight: bold;
 }
+
 .header-link {
   display: none;
   margin-right: 0.5em;
@@ -266,56 +293,53 @@ h6:hover .header-link {
   display: inline;
 }
 
-
 a {
   transition: background 300ms;
   font-family: 'Balthazar', sans-serif;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-secondary;
-  &:hover {
-    color: black !important;
-    background: #b5eeff;
-  }
-  &:after {
-    position: relative;
-    top: -0.5em;
-    font-size: 0.7em;
-    content: " ↗";
-    color: #aaaaaa;
-  }
-  &.internal-link:after,
-  &.footnote:after,
-  &.reversefootnote:after {
-    content: "";
-  }
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-secondary);
 }
-a#transparent{
+
+a:hover {
+  color: black !important;
+  background: #b5eeff;
+}
+
+a:after {
+  position: relative;
+  top: -0.5em;
+  font-size: 0.7em;
+  content: " ↗";
+  color: #aaaaaa;
+}
+
+a.internal-link:after,
+a.footnote:after,
+a.reversefootnote:after {
+  content: "";
+}
+
+a#transparent {
   padding: -0.5em;
   text-decoration: none;
-  content:"";
-  display:inline-block;
+  content: "";
+  display: inline-block;
   border-bottom: none;
   color: #61c7c6;
-  }
+}
+
 a#transparent:after {
-	position: relative;
-    top: -0.5em;
-    font-size: 0.7em;
-    content: "";
-  }
+  position: relative;
+  top: -0.5em;
+  font-size: 0.7em;
+  content: "";
+}
+
 a#transparent:hover {
-    color: black !important;
-  }
-
-*:focus {
-  background: #ffe8bc !important;
   color: black !important;
-}  
- 
-
-
+}
 
 *:focus {
   background: #ffe8bc !important;
@@ -324,20 +348,17 @@ a#transparent:hover {
 
 nav {
   margin: 1em 0 3em 0;
-  align: center
+  align: center;
 }
 
 #notes-entry-container {
   display: grid;
   grid-gap: 1.2em;
-  grid-template-areas:
-    content
-    side;
+  grid-template-areas: "content" "side";
 
   @media (min-width: 700px) {
     grid-template-columns: 3fr 1fr;
-    grid-template-areas: 
-					"content side";
+    grid-template-areas: "content side";
   }
 }
 
@@ -346,10 +367,9 @@ nav {
   flex-wrap: wrap;
 }
 
-
 .tag {
-  border: 1px solid #f3539b;
-  border-radius: $border-radius;
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
   color: #f6f6f6;
   display: inline-block;
   font-family: 'Balthazar', sans-serif;
@@ -359,7 +379,6 @@ nav {
   position: relative;
   text-decoration: none;
   background: linear-gradient(hsla(333, 87%, 34%, 0.8), hsla(333, 87%, 44%, 0.8));
-
 }
 
 .tag::before {
@@ -372,7 +391,7 @@ nav {
 }
 
 .tag::after {
-  border-radius: $border-radius;
+  border-radius: var(--border-radius);
   content: "";
   height: 100%;
   position: relative;
@@ -381,11 +400,10 @@ nav {
   width: 1px;
 }
 
-	
 .backlink-box {
-  background: $color-box-background;
+  background: var(--color-box-background);
   padding: 1em;
-  border-radius: $border-radius;
+  border-radius: var(--border-radius);
 }
 
 code {
@@ -410,39 +428,26 @@ code {
 
 #header-area {
   display: grid;
-  grid-template-columns: auto; /* Only one column for both elements */
-  grid-template-rows: auto 1fr; /* First row for banner, second row for top-stuff */
+  grid-template-columns: auto;
+  grid-template-rows: auto 1fr;
 }
 
- #banner {
+#banner {
   /* Add styles for the banner element */
 }
 
- #top-stuff {
-	grid-row: 2; /* Place the top-stuff element in the second row */
-	padding-bottom:1em;
+#top-stuff {
+  grid-row: 2;
+  padding-bottom: 1em;
   /* Add styles for the top-stuff element */
 }
- @media (min-width: 720px) {
+
+@media (min-width: 720px) {
   #header-area {
-    grid-template-columns: auto 1fr; /* First column for banner, second column for top-stuff */
-    grid-template-rows: auto; /* Only one row for both elements */
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto;
   }
   #top-stuff {
-    grid-row: auto; /* Reset the grid-row property to its default value */
-	
+    grid-row: auto;
   }
-	
 }
-/*
- @media (max-height: 580px) {
-  #header-area {
-    grid-template-columns: auto; /* First column for banner, second column for top-stuff *//*
-    grid-template-rows: auto 1fr; /* Only one row for both elements *//*
-  }
-  #top-stuff {
-    grid-row: auto; /* Reset the grid-row property to its default value *//*
-	padding-bottom:1em;
-  }
-} 
-*/
