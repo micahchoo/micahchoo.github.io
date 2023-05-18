@@ -42,7 +42,7 @@ These were some readings and anecdotes that set the foundation of my knowledge a
 
 7. While researching how a school can be set up for tribal children, we were alerted by a teacher to the various problems that hinder Paniya children’s educationrestlessness in the class, truancy(often encouraged by their parents), living far away from the school, alcoholism being a community addiction etc. In my research, I found that a lot of these were explained by this [**paper**](http://sci-hub.tw/10.1177/2455328x17745174) _(This is a very interesting read that helps you question the inclusivity of our educational models)_
 	_This is an interesting video on how an Education system with the Adivasis in mind would look_
-	https://www.youtube.com/watch?v=DAKtKeOGWQQ
+	https://www.youtube.com/watch?v=DAKtKeOGWQQ 
 
 ## Public Perceptions
 
