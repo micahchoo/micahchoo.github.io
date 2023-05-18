@@ -15,6 +15,52 @@ $border-radius: 4px;
 	opacity: 0.1;
 	line-height: 1.5;
   }  
+.header-container {
+  object-fit: scale-down;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px 0 rgba(12, 248, 252, 0.2);
+  background: linear-gradient(hsla(333, 87%, 64%, 0.2), #fff1e6);
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.banner {
+  object-fit: contain;
+  padding: 3.5%;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.header-image {
+  object-fit: contain;
+  max-height: 45vh;
+  max-width: 35vw;
+  padding: 0;
+}
+
+.header-content {
+  padding: 0 2.5em 2.5em 2.5em;
+}
+
+.header-subtitle {
+  color: #4962ad;
+  font-family: 'Balthazar';
+  vertical-align: top;
+  line-height: 1.2;
+}
+
+.header-links {
+  color: #8c9dcf;
+}
+
+.header-links a {
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.header-links a i {
+  height: 0.85em;
+}
   
   
 @font-face {
