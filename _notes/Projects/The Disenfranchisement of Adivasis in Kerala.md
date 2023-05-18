@@ -102,9 +102,9 @@ Other stories talk of the Paniyan afterlife — which does not constitute heaven
 
 ### **Dance and Music:**
 
-They also have a dance called the “Vattakalli” which is inspired by the movement of elephants. It is accompanied by instruments like the thudi.
+https://www.youtube.com/watch?v=b7U81Ybv4X8
+https://www.youtube.com/watch?v=8OSfyBmwKq8
 
-https://www.youtube.com/watch?v=ZVVnydrmXdo
 ## History of the Paniyans:
 
 > A tribal girl once asked me modestly, ”When we go to school, we read about Mahatma Gandhi. Did we have no heroes like that? Did we always suffer like this?”
