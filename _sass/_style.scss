@@ -126,6 +126,22 @@ h6 {
   color: hsla(333, 87%, 64%, 1);
   margin-block-start: 2.33em; margin-block-end: 2.33em; font-size: 0.67em; font-weight: bold;
 }
+.header-link {
+  display: none;
+  margin-right: 0.5em;
+  color: inherit;
+}
+
+h1:hover .header-link,
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  display: inline;
+}
+
+
 a {
   transition: background 300ms;
   font-family: 'Balthazar', sans-serif;
