@@ -4,7 +4,7 @@
     background-color: #efefff;
   }
 
-  .tooltip-wrapper {
+  #tooltip-wrapper {
     background: white;
     padding: 1em;
     border: 1px solid #ddd;
@@ -19,7 +19,7 @@
     transition: opacity 100ms;
   }
 
-  .tooltip-wrapper::after {
+  #tooltip-wrapper:after {
     content: "";
     position: absolute;
     z-index: 1;
@@ -32,23 +32,23 @@
   }
 </style>
 
-<div class="tooltip-wrapper">
-  <div class="tooltip-content"></div>
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'></div>
 </div>
 
-<iframe style="display: none; height: 0; width: 0;" id="link-preview-iframe" src=""></iframe>
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src=""></iframe>
 
 <script>
   (function() {
-    const transitionDurationMs = 100;
-    const offsetX = 10;
-    const offsetY = 35;
+    var transitionDurationMs = 100;
+    var offsetX = 10;
+    var offsetY = 35;
 
-    const iframe = document.getElementById('link-preview-iframe');
-    const tooltipWrapper = document.querySelector('.tooltip-wrapper');
-    const tooltipContent = tooltipWrapper.querySelector('.tooltip-content');
+    var iframe = document.getElementById('link-preview-iframe');
+    var tooltipWrapper = document.getElementById('tooltip-wrapper');
+    var tooltipContent = document.getElementById('tooltip-content');
 
-    const linkHistories = {};
+    var linkHistories = {};
 
     function hideTooltip() {
       tooltipWrapper.style.opacity = 0;
@@ -59,23 +59,19 @@
     }
 
     function showTooltip(event) {
-      const elem = event.target;
-      const elemProps = elem.getClientRects()[elem.getClientRects().length - 1];
-      const top = window.pageYOffset || document.documentElement.scrollTop;
+      var elem = event.target;
+      var elemProps = elem.getClientRects()[elem.getClientRects().length - 1];
+      var top = window.pageYOffset || document.documentElement.scrollTop;
 
       if (event.target.host === window.location.host) {
-        const href = event.target.href;
-        let tooltipContentHtml = '';
+        var href = event.target.href;
+        var tooltipContentHtml = '';
 
         if (!linkHistories[href]) {
           iframe.src = href;
           iframe.onload = function() {
-            const iframeDocument = iframe.contentWindow.document;
-            const h1Content = iframeDocument.querySelector('h1').innerHTML;
-            const content = iframeDocument.querySelector('content').innerHTML;
-
-            tooltipContentHtml += `<div style="font-weight: bold;">${h1Content}</div>`;
-            tooltipContentHtml += content;
+            tooltipContentHtml += '<div style="font-weight: bold;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>';
+            tooltipContentHtml += iframe.contentWindow.document.querySelector('content').innerHTML;
 
             tooltipContent.innerHTML = tooltipContentHtml;
             linkHistories[href] = tooltipContentHtml;
@@ -93,28 +89,37 @@
           }, 1);
         }
 
-        tooltipWrapper.style.left = `${elemProps.left - (tooltipWrapper.offsetWidth / 2) + (elemProps.width / 2)}px`;
+        tooltipWrapper.style.left = elemProps.left - (tooltipWrapper.offsetWidth / 2) + (elemProps.width / 2) + 'px';
 
         if ((window.innerHeight - elemProps.top) < tooltipWrapper.offsetHeight) {
-          tooltipWrapper.style.top = `${elemProps.top + top - tooltipWrapper.offsetHeight - offsetY}px`;
+          tooltipWrapper.style.top = elemProps.top + top - tooltipWrapper.offsetHeight - offsetY + 'px';
         } else if ((window.innerHeight - elemProps.top) > tooltipWrapper.offsetHeight) {
-          tooltipWrapper.style.top = `${elemProps.top + top + offsetY}px`;
+          tooltipWrapper.style.top = elemProps.top + top + offsetY + 'px';
         }
 
         if ((elemProps.left + (elemProps.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-          tooltipWrapper.style.left = `${offsetX}px`;
+          tooltipWrapper.style.left = offsetX + 'px';
         } else if ((document.body.clientWidth - elemProps.left - (elemProps.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
-          tooltipWrapper.style.left = `${document.body.clientWidth - tooltipWrapper.offsetWidth - offsetX}px`;
+          tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - offsetX + 'px';
         }
       }
     }
 
-    document.body.addEventListener('mouseleave', hideTooltip);
-    document.body.addEventListener('touchend', hideTooltip);
-    document.body.addEventListener('mouseenter', function(event) {
-      if (event.target.matches('{{ include.wrapperQuerySelector }} a')) {
-        showTooltip(event);
-      }
-    });
+    function setupListeners() {
+      document.querySelectorAll('{{ include.wrapperQuerySelector }} a').forEach(function(linkElement) {
+        linkElement.addEventListener('mouseleave', hideTooltip);
+        linkElement.addEventListener('touchend', hideTooltip);
+        linkElement.addEventListener('mouseenter', showTooltip);
+      });
+
+      tooltipWrapper.addEventListener('mouseleave', hideTooltip);
+      tooltipWrapper.addEventListener('touchend', hideTooltip);
+      tooltipWrapper.addEventListener('mouseenter', function() {
+        clearTimeout(opacityTimeout);
+        clearTimeout(contentTimeout);
+      });
+    }
+
+    setupListeners();
   })();
 </script>
