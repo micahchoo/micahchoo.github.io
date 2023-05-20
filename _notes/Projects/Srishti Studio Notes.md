@@ -50,161 +50,66 @@ We will explore how to learn to be, see and make in and with gathering-spaces. T
 - [The monkey that did everything on his own - Malay](https://prethesis-a3.vercel.app)
 - [Single Screen Theatres - Sakshi Joshi](https://sakshijsh8.wixsite.com/sakshi-joshi/single-screen-theatres)
 - [Chickpet Field Visit - HCD Sem 7 — Felt](https://felt.com/map/Chickpet-Field-Visit-HCD-Sem-7-ekx6paEpSTmd1UZNCTj13B?lat=12.968386&lon=77.577884&zoom=16.41)
-### Modes of Engagement (in no particular order)
+# Modes of Engagement
 
-  
+## 1. Reading and Annotating
+- This involves gaining an understanding of various histories, current scenarios, individuals, locations, objects, and narratives.
+- It encourages you to cross-reference your archive with reflections on your own identity.
 
-1.  Reading and Annotating
--   Learning to read histories, presents, people, places, artifacts, narratives
-    
--   Cross-annotating your archive with reflections of your identity
-    
+## 2. Mapping and Seeing
+- This mode is about discovering diverse perspectives.
+- It includes the task of mapping these distinct viewpoints across various dimensions, including spatial, temporal, and cultural dimensions, and across various senses - such as sounds, smells, and sights.
 
-2.  Mapping and Seeing
-    
+## 3. Participating and Being
+- This mode encourages you to understand and experience various roles within a space, including roles as customers, sightseers, designers, outsiders, artists, and more.
+- It asks you to consider how these roles you adopt impact your practices.
+- It encourages active participation and involvement in these various roles.
 
--   Exploring different ways of seeing
-    
--   Mapping these different ways that you are seeing things in different dimensions - spatial, temporal, cultural, across sounds, smells, sights, sense of a place, safe spaces
-    
+## 4. Making and Bridging
+- Here, the focus is on creation as a means of communication and collective thinking.
+- The act of creation is seen as a form of participation and reaching out to others.
 
-3.  Participating and Being
-    
+## 5. Archiving and Exhibiting
+- This mode involves the creation of archival artifacts that capture the collective memory of your engagements.
+- It also includes reflecting on how your practices are informed by these archival artifacts.
 
--   Understanding what it might mean to “be” in the space in different ways - customers, sightseers, designers, outsiders, artists etc. 
-    
--   How do these roles that you occupy inform your practice
-    
--   What would it mean to participate in any of these roles
-    
+## 6. Participatory and Collaborative
+- This mode emphasizes engagement that involves shared decision-making and action with others.
 
-4.  Making and Bridging
-    
+## 7. Co-creating and Co-learning
+- This mode involves the shared creation of artifacts or knowledge and learning from each other in the process.
 
--   Making as a way of communicating
-    
--   Making as a way of thinking collectively
-    
--   Making as participating
-    
--   Making as reaching out
-    
+# Capabilities
 
-5.  Archiving and Exhibiting
-    
+## 1. Speculate
+- The ability to construct plausible concepts in the face of risk and limited information.
 
--   Archival artifacts for the collective memory of your engagement
-    
--   Remembering how your practice is informed by your reflection
-    
+## 2. See & Connect
+- The ability to deliberately uncover and merge diverse experiences and forms of knowledge.
 
-6.  Participatory and Collaborative 
-    
-7.  Co-creating and Co-learning 
-    
+## 3. Be Honest
+- The ability to be self-aware and transparent in expressing your position.
 
-  
-  
+## 4. Make
+- The ability to create new artifacts, things, and relationships that did not previously exist as tools of critical inquiry.
 
-### Capabilities
+# Weekly Activities
 
-  
+The outlined course involves weekly activities ranging from orientation and site visits, to building abstracts and co-creating evaluation processes. The activities also include exercises in mapping, reading literature, journaling, and artifact creation. The course encourages active participation with collaborators and stakeholders and continual engagement with the archive.
 
-1.  Speculate: Take risks while constructing plausible concepts even with limited information. 
-    
-2.  See & Connect: Consciously unearth and combine diverse experiences and knowledge forms. 
-    
-3.  Be Honest: Be aware of and transparent in articulating your position.
-    
-4.  Make: Bring about that-which-does-not-yet-exist; bring artifacts, things, and people into novel assemblages as critical vehicles of inquiry.  
-    
+# Learning Outcomes
 
-### Weekly Seeings and Doings
+Through these modes of engagement and capabilities, the following outcomes are expected:
 
-  
-
-Week 1
-
-Orienting,  Visiting the site, Signing up
-
-Week 2
-
-Building an Abstract, Co-creating an evaluation and assessment process, Visiting the site and preparing for mapping exercises, Reading Literature
-
-Week 3
-
-Building a field guide, Mapping exercise, Starting a Journal,  Building Artifacts, Identifying and introducing to collaborators and stakeholders, building a structure for your archive, cross-annotating each other’s maps and archival system
-
-Week 4
-
-Mapping Exercise, Annotating, Building Artifacts A1 Examination, journal
-
-Week 5
-
-A1 examination, Adding post a1 reflections to your journal
-
-Week 6
-
-Cross-annotating journals, Making processes in-situ, adding annotation to your archive
-
-Week 7
-
-Ways of Being, cross-reading of your position, your experience on-site and your theoretical and practical studies, co-iterating with collaborators
-
-Week 8
-
-New makings participating on the basis of cross-reading,
-
-Week 9
-
-A2 Examination
-
-Week 10
-
-A2 Examination
-
-Week 11
-
-Start this iteration of your response artifact, present and iterate with collaborators
-
-Week 12
-
-Add to the archive small snippets as you go
-
-Week 13
-
-Polish your response artifact and the archive
-
-Week 14
-
-Polish your response artifact and the archive
-
-Week 15
-
-A3 Examination
-
-  
-  
-
-### Learning Outcomes
-
-  
-
-1.  Responsiveness as a methodological toolkit
-    
-2.  Formulating a proposal and implementing
-    
-3.  Giving forms to your identity as a practitioner in time and space
-    
-4.  Developing new ways to look at humans and technologies and their interactions
-    
-5.  Observing and connecting between different patterns in theory and practice or the lack thereof
-    
-6.  More ways to derive metaphors from outside to inform your practice
-    
-7.  Building a sense for collaborative making and doing
-
-
+1. Development of a toolkit based on responsiveness as a methodology.
+2. The ability to formulate and implement a proposal.
+3. The ability to express your identity as a practitioner in space and time.
+4. New perspectives on human and technology interactions.
+5. The ability to observe and make connections between different patterns in theory and practice.
+6. Improved skills in deriving metaphors to inform your practice.
+7. Enhanced sense for collaborative creation and action.
+   
+This structure provides a comprehensive framework for engagement, capability building, weekly activities, and anticipated learning outcomes.
 - 
 ### Reading List
 [[Srishti SDB Studio - Reading List]]
