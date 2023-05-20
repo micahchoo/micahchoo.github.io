@@ -17,7 +17,7 @@ category:
 - Virtual Reality
     - https://www.youtube.com/watch?v=eX2QBlckPnw
         - Melding of Realities
-            - [[A rape in cyberspace]]
+            - [[A Rape in Cyberspace]]
         - Virtual environments
         - Choice as a plot device
         - Thick descriptions done badly

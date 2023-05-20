@@ -37,21 +37,6 @@ Throughout the latter half of the twentieth century, sociologists and feminist t
 
 This study contends that if we want to understand more about the technologies we use then we might want to attend less to cases of breakdown in which such systems cannot be used, and focus more instead on the kinds of activities that occur while such technologies are in use. This will involve shifting the focus in historical studies of technology away from traditional narratives which privilege activities of design and construction and more towards the analysis of everyday practices of maintenance, repair and modification. While the recent turn towards use in historical studies of technology and the growing body of literature that has resulted5 has prepared the ground for future studies of this kind, more work remains to be done. For if the black box of infrastructure can indeed be opened, it will be done so not by focusing on failure, but rather by turning an ethnographic eye towards everyday practices of maintenance and the conception of technology they imply.
 
-## more notes 
-
-More people more use
-
-Not using  tech using tech and everything in between 
-
-- Ethnographic studies of repair (ESR) 
-- Synopsis of mark Youngs paper
-     Infrastructure is invisible is mainstream argument and that breakdown causes visibility. Often made invisible by 1. Hiding everyday breakage and repair 2. Hiding repair people because low status in society. When technology is perceived, it is perceived as a form and function. But not as an artifact, networked with other nonhumans and humans determining use and change(Lucy, Latour). When you see the interplay, a stove as a package includes pots, pans, people, burn marks, lighters, soap, cloth, cylinders, pipes etc. Mark says it's a process (maybe so that there's a match with repair as a process and the datatype mismatch doesn't exist). The process is the improvisational care and repair and maintenance that is given to the artifact constantly, suddenly the technology/infrastructure is not just the artifact. 
- - My additions to this:  Visibility into infrastructures and technologies become useful because it helps build 
-       - alternatives -resilience because of options
-       - for alternative use - diversity and specificity of use, which allows for 
-       - for solidarity - if breakage is common, repair is common. if repair is common, commoners are repairpeople. From a low-income job to an essential and valuable job. Collective participation often needed 
-   - Option 1 for studio: in places outside "Concreta", breakages are common and repair is common. These effects are observed constantly. How do we learn from this way of being? What can we understand? When we do observe, how can we build based on it?
-   - Option 2: learning from repair people, what are their practices, how do people interact with them, what is common, what is different, what ways does this affect your practices as a human centered designer
 
 ## reading list
 
@@ -121,70 +106,26 @@ Strebel, I., Bovet, A., & Sormani, P. (2019). Repair work ethnographies: Revisit
 
 Young, M. T. (2021). Maintenance. In D. Michelfelder & N. Doorn (Eds.), The Routledge Handbook of the Philosophy of Engineering.
 
+
+# More Notes
+
 https://doctorow.medium.com/epson-boobytrapped-its-printers-7d0ef9b894d4?s=09
-
-[[practice for micah]]
-
 https://escholarship.org/uc/item/6xj932f8?s=09
 
-The city is a peculiar place. You don't learn about it through the papers or screaming media anchors. You learn to see it by living and participating in it
+Here are some additional notes on various topics:
 
-You change things just by observing participation
+- **Ethnographic Studies of Repair (ESR)**: ESR focuses on the ethnographic examination of repair practices. It explores how repair activities often remain invisible in society, with everyday breakages and repair work hidden from view. Repair people themselves are often marginalized and overlooked. By understanding repair as a process and considering the interplay of artifacts, networks, and human agency, the visibility and significance of infrastructures and technologies can be better understood.
 
-Co-creation in public, fringe 
+- **Observing Infrastructures and Technologies**: Observing and gaining visibility into infrastructures and technologies can have several benefits. It can lead to the development of alternatives and enhance resilience by providing options. It can foster diversity and specificity of use, enabling alternative ways of using technologies. Additionally, observing and participating in repair practices can promote solidarity, transforming low-income jobs into essential and valued roles. Exploring these observations can inform human-centered design practices.
 
-If you are put in the space, what does participation mean 
+- **Epson Printers Boobytrap**: The article "[Epson Boobytrapped Its Printers](https://doctorow.medium.com/epson-boobytrapped-its-printers-7d0ef9b894d4?s=09)" highlights an incident where Epson printers were intentionally designed to prevent the use of third-party ink cartridges. This raises questions about the ethics and implications of such practices by technology companies.
 
-What is invisible visible here 
+- **City as a Learning Space**: The city is a unique learning space that cannot be fully understood through traditional media channels. Living and actively participating in the city allows individuals to truly see and experience its dynamics. By observing participation and actively engaging with the city, individuals can contribute to and bring about change.
 
-What are linkages
+- **Small Gathering Interfaces**: Small Gathering Interfaces explore the concepts of interfaces, smallness, and gatherings. They involve understanding the interactions and linkages within spaces, both human and non-human. By speculating and designing interfaces that reflect these understandings, designers can create meaningful and contextually relevant experiences for gatherings in various settings.
 
-What are sub - spaces there
+- **Seminar Approach**: The seminar approach involves a series of explorations and reflections on smallness, interfacing, materiality, the designer's role, and gatherings. Through iterative design iterations, students can refine their interfaces and incorporate theoretical frameworks and personal reflections. The seminars culminate in the presentation of the final interface design accompanied by a reflective account of the student's position and its influence on the design process.
 
-What are you in the space 
+- **Interfaces for Gatherings in the Small**: This concept focuses on moving beyond human-centered design to consider the broader narratives and interactions within gathering spaces. By observing and engaging with these spaces, designers can gain insights into their own positionality and the kind of work they want to do. They can draw metaphors from these spaces and evaluate their suitability within a historical context, informing their design practice.
 
-What are you making the space 
-
-What is the space doing to you 
-
-Non - human
-
-Small Gathering Interfaces- 
-
-- What is interface
-- What is small 
-- What is gathering 
-
-Gaze at the designer + Choose a space
-
-Understand space linkages and interactions without
-
-Same but for within
-
-Understand how people gather
-
-Gaze at the designer again
-
-Speculate an interface that brings your understandings to a material
-
- + Propose what that interface will be for
-
-Seminar 1
-
-- Explore smallness 
-- Explore interfacing
-- Explore material
-- Explore the designer 
-- Explore gathering 
-
- +v2 of interface + art about interface 
-
-Seminar 2 
-
-Polish, add theory, add more reflection
-
-+present v3, 5 minute audio reflective account of your position and how that affected your design
-
-Interfaces for Gatherings in the Small
-
-Beyond the human centeredness of design, lie the varied and vast untold stories of non-human spaces, artifacts, systems. It might be then important for a younger designer to observe how humans are positioned in these spaces, how the ways they gather depend on the nature of these gathering spaces and the other humans and non-humans within them. In the small, students might learn to be, see and make in these spaces. What might they learn about what they are seeing vs not seeing? What are they being vs what are they not being in these spaces? When they are making, what can these small, gathering spaces teach them about themselves and the kind of work they want to do? What metaphors can they pull from these spaces to inform their work? How would they judge the suitability of the metaphor and position it within a larger historical body of work? 
+These notes cover a range of topics related to repair practices, visibility of infrastructures, technology ethics, urban learning, small gathering interfaces, and the exploration of gathering spaces.

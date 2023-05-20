@@ -6,7 +6,8 @@ source:
 compiler:
 category:
 ---
-![[Pasted image 20230427182635.png]]
+
+![](/Pasted%20image%2020230427182635.png)
 [Chickpet Field Visit - HCD Sem 7 — Felt](https://felt.com/map/Chickpet-Field-Visit-HCD-Sem-7-ekx6paEpSTmd1UZNCTj13B?lat=12.968386&lon=77.577884&zoom=16.41)
 
 
