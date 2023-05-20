@@ -20,7 +20,7 @@ This was the description for a course that Naveen, Navin, Siddhant and I co-faci
 
 
 ### Vibes: 
-[https://www.youtube.com/watch?v=AZh9EwjlRl0](https://www.youtube.com/watch?v=AZh9EwjlRl0&t=295s)
+https://www.youtube.com/watch?v=AZh9EwjlRl0
 
 
 ### The brief: 
@@ -43,20 +43,18 @@ We will explore how to learn to be, see and make in and with gathering-spaces. T
 
 ## Student Projects:
 - [Gathering Spaces - thetipsyartist.in](https://thetipsyartist.in/project/view/644a5376d95ac6f8357bf4dd)
-- [Patchwork Pete | B•LORE by BIC - Atheeva](https://bangaloreinternationalcentre.org/blore/patchwork-pete-b%e2%80%a2lore-by-bic)
-- [the brown kid |  The Pete Project playlist ](https://soundcloud.com/brown-kid-646151136/sets/the-pete-project?si=4ccb602f84944d54a3434d7673804d77&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- [Patchwork Pete - B•LORE by BIC - Atheeva](https://bangaloreinternationalcentre.org/blore/patchwork-pete-b%e2%80%a2lore-by-bic)
+- [the brown kid - The Pete Project playlist ](https://soundcloud.com/brown-kid-646151136/sets/the-pete-project?si=4ccb602f84944d54a3434d7673804d77&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 - [Recording a place : simplebooklet.com](https://simplebooklet.com/recordingaplace)
 - [Pallavi Kiragi - Seeing, Doing, Being Design](https://pkaydesigns.myportfolio.com/chickpete-project)
 - [The monkey that did everything on his own - Malay](https://prethesis-a3.vercel.app)
-- [Single Screen Theatres | Sakshi Joshi](https://sakshijsh8.wixsite.com/sakshi-joshi/single-screen-theatres)
+- [Single Screen Theatres - Sakshi Joshi](https://sakshijsh8.wixsite.com/sakshi-joshi/single-screen-theatres)
 - [Chickpet Field Visit - HCD Sem 7 — Felt](https://felt.com/map/Chickpet-Field-Visit-HCD-Sem-7-ekx6paEpSTmd1UZNCTj13B?lat=12.968386&lon=77.577884&zoom=16.41)
 ### Modes of Engagement (in no particular order)
 
   
 
 1.  Reading and Annotating
-    
-
 -   Learning to read histories, presents, people, places, artifacts, narratives
     
 -   Cross-annotating your archive with reflections of your identity
