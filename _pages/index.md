@@ -6,14 +6,14 @@ content-type: eg
 ---  
 
 ## Featured
-[My portfolio](https://khattamicah.tumblr.com)
+<iframe src="https://khattamicah.tumblr.com" allow="fullscreen" allowfullscreen="" style="height: 100%; width:500px; aspect-ratio: 16 / 9;"></iframe>
 
 ### Paths to travel 
 
 <div class="breakout">
   <div class="card-wrapper">
     <div class="card">
-      <img class="image-small" src="../../assets/logo-small.png" alt="Logo">
+      <img class="image-small" src="assets/img/help-circle.svg" alt="Logo">
       <div>
         <h1 class="card-h1">
           [[Tutorials]]
@@ -24,7 +24,7 @@ content-type: eg
       </div>
     </div>
     <div class="card">
-      <img class="image-small" src="../../assets/logo-small.png" alt="Logo">
+      <img class="image-small" src="assets/img/book-open.svg" alt="Logo">
       <div>
         <h1 class="card-h1">
           [[Review of my readings]]
@@ -35,7 +35,7 @@ content-type: eg
       </div>
     </div>
     <div class="card">
-      <img class="image-small" src="../../assets/logo-small.png" alt="Logo">
+      <img class="image-small" src="assets/img/tool.svg" alt="Logo">
       <div>
         <h1 class="card-h1">
           [[Makings]]
@@ -46,7 +46,7 @@ content-type: eg
       </div>
     </div>
     <div class="card">
-      <img class="image-small" src="../../assets/logo-small.png" alt="Logo">
+      <img class="image-small" src="assets/img/archive.svg" alt="Logo">
       <div>
         <h1 class="card-h1">
           [[Hoardings]]
@@ -57,24 +57,13 @@ content-type: eg
       </div>
     </div>
     <div class="card">
-      <img class="image-small" src="../../assets/logo-small.png" alt="Logo">
+      <img class="image-small" src="assets/img/key.svg" alt="Logo">
       <div>
         <h1 class="card-h1">
-          [[Seedling ideas]]
+          [[Seedlings]]
         </h1>
         <p class="card-p">
           Slowly making sense of certain things
-        </p>
-      </div>
-    </div>
-    <div class="card">
-      <img class="image-small" src="../../assets/logo-small.png" alt="Logo">
-      <div>
-        <h1 class="card-h1">
-          [[otherthings about me]]
-        </h1>
-        <p class="card-p">
-          What it says on the tin
         </p>
       </div>
     </div>
@@ -104,10 +93,16 @@ content-type: eg
     justify-content: space-between;
   }
 
-  .card img {
-    width: 100%;
-    height: auto;
-  }
+.card img {
+	width: 90px;
+	height: auto;
+}
+
+.card svg {
+	fill: cyan;
+	stroke: cyan;
+}
+
 
   .card h1 {
     margin: 10px 0;

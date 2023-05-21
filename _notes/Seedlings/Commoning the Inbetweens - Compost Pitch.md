@@ -6,34 +6,32 @@ compiler:
 category:
 tags: 
 ---
+this led to the development of [[Compost Magazine - Technofutures from Bidar]]
 
-# Commoning the Inbetweens - Compost Pitch
-
-Commoning Digital Spaces is a good first step. But it has to go much further than that. Our experiences with implementing a [community-owned mesh network in Bidar](https://www.apc.org/en/blog/community-networks-stories-experiences-co-creating-local-knowledge-network) brought up questions that really don't fit into the neo-liberal imaginations of internetworking. In projects like these, spaces have to be made for the people, the place and their histories with each other. 
+The ambition to 'Common' Digital Spaces is a remarkable stride towards a collective digital experience. However, there is a wide array of inherent challenges yet to be addressed fully. A striking example of these challenges surfaced during our firsthand endeavor in building a [community-owned mesh network in Bidar](https://www.apc.org/en/blog/community-networks-stories-experiences-co-creating-local-knowledge-network). This initiative provoked several questions that deviate from the standard neoliberal assumptions about internetworking. Such undertakings necessitate creating spaces shaped by the people, their local environment, and their interconnected histories.
 
 ![](https://live.staticflickr.com/65535/51027646522_00ac213005_b.jpg)
 
-But Digital Commoning might also bring out new imaginations of how technology can be used to support over solve, a relegation to a smaller role. The narratives of tech-saviorism are still very prevalent in the movement. These will still lead us down the path of creating privileged, reductionist spaces that will still be non-inclusive.
+Notably, championing digital commons can instigate innovative ways to view technology as a supportive pillar, rather than a complete solution. The narrative of technology as a savior is still predominant within the movement, risking the creation of privileged, reductionist spaces that can lack inclusivity.
 
-**What are the alternate imaginations of the Phygital spaces, the Caring Communes, the Fertile Forests that emerge from the cracks?**
+**How might we reimagine Phygital spaces, Caring Communes, and Fertile Forests that germinate from these cracks?**
 
-## Version 2
+Recognizing the opportunities offered by the digital commons requires a simultaneous acknowledgement of its limitations and potential drawbacks. Such awareness enables us to move away from the concept of tech-saviorism, encouraging us to view technology as a tool with its own shortcomings - it's still evolving to embrace complex cultural histories, include diverse narratives of people, places, and events, adapt to alternative visions of "internetworking", and have the patience to engage with non-capitalistic timelines, everyday mundanity, and all associated gray areas. This understanding also brings to light the gaps that technology cannot "fill/solve", underlining the need for technology to provide support, not solutions.
 
-Understanding the optimism of the digital commons also means to be aware of its limitations and pitfalls. What it then offers us is the opportunity to shift away from tech-saviourism and understand it for it is - a limited tool that still hasn’t developed to be complex enough to respond to deep cultural histories or inclusive enough to accept the narratives of specific people, places and events or flexible enough to adapt to different imaginations of “internetworking” or the patience to deal with non-capitalistic timeframes, the everyday mundaneness and all the associated inbetweens. But what this understanding also offers us is the knowledge of the in-betweens that technology cannot “solve/cover”. We then come to the conclusion that technology must work to support over solve. 
-
-We recently were part of a project to establish a local mesh network to act as an intranet of local archives that would collectively function as a knowledge network. During the course of the projects we came to see both the limitations of technology but also the fertile grounds that it would come upon. We would like to present narratives from the field of possibilities and futures that our network members came across. This would also be an experiment in **co-authoring**, since many of our network members speak english as a third or fourth language (if at all) and writing as a form of documentation seems to become more and more evident as a western hangover, we would like to try it out in this format in line with a longer series of experiments we have been running.
+Our recent involvement in a project to establish a local mesh network - acting as an intranet of local archives forming a collective knowledge network - exposed both the constraints of technology and the fertile spaces it interacts with. We aim to share narratives from the field that depict the possibilities and prospective developments envisioned by our network members. This endeavor will also experiment with **co-authoring**. Given that many of our network members use English as a third or fourth language (if at all), and considering the Western-centric nature of writing as a form of documentation, we are keen to explore this format as a part of our ongoing series of experiments.
 
 ## Reflections and Thoughts on the piece
 
-- This is the link to the initial Demo that Bhanu and I pieced together with Annotorius  and Open Seadragon Library [https://metal-profuse-arch.glitch.me](https://metal-profuse-arch.glitch.me)
-	We needed to do this to enable multiple annotations to appear on the Map.
-- I illustrated the map early on as very flat, and then learnt to use IAM as a reference while bringing out the texture of the land
-- @Siddhant and I then spoke to network members, collecting their thoughts and reflections on the project
-- this is similar to the concept of [dialectograms](http://www.dialectograms.com)
-- Is [[Compost Magazine - Technofutures from Bidar]] a way of putting [[Capstone Reflections - Care-full Collaborations]] into context
+- Here is the link to the initial demo that Bhanu and I built using Annotorius and Open Seadragon Library [https://metal-profuse-arch.glitch.me](https://metal-profuse-arch.glitch.me). We needed this to allow multiple annotations to appear on the Map.
+- I started by illustrating the map as rather flat, and later learned to use IAM as a reference to enhance the land's texture.
+- Siddhant and I then engaged network members, gathering their insights and reflections on the project.
+- This approach aligns with the concept of [dialectograms](http://www.dialectograms.com).
+- Could [Compost Magazine - Technofutures from Bidar] be a way of contextualizing [[Capstone Reflections - Care-full Collaborations]]?
 
-	* The co-authoring bit comes from archetypes of care
-	* Archetypes come from the roles that people have played in collectives
-	* Does this come closer to co-authoring as the only way a collective puts things out there?
-		* what about the non-humans? Where do they feature
-	* Paul's thoughts - "The archetypes work well because they can be plugged into different communities. a maintainer in one field looks very different in another"
+	* The co-authoring aspect draws from archetypes of care.
+	* Archetypes originate from the roles people have assumed in collectives.
+	* Does this hint that co-authoring is the only way a collective shares its output?
+		* Where do non-humans fit in this narrative?
+	* Paul's insights - "The archetypes function well because they can be adapted to different communities. A maintainer in one domain looks vastly different
+
+ in another."

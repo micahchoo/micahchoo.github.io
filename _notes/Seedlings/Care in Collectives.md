@@ -9,44 +9,29 @@ category:
 
 # Care in Collectives
 
-[[Capstone Dumpyard]]
+This led to the writing of [[Carefull Collectives and their Care Practices]]
 
- Does it need to fit into a particular domain
 
-	* Would domainifying this lead to its remediation
 
-	* [[Compost Thoughts]] - remdiation in context 1
+Archetypes of care are roles that individuals take within collectives, embodying various care practices that nurture our shared environments. They reflect the notion of co-authoring, where every individual in a collective contributes to the overall narrative, and nothing is put forth without collective input.
 
-	* infrastructuring as meme - remediation in context 2	
+This extends beyond human contributors; non-humans play significant roles too. The flora, fauna, and even the technological entities in our environment are part of this care system, each bringing unique contributions to the collective narrative.
 
- Paul's thoughts - "The archetypes work well because they can be plugged into different communities. a maintainer in one field looks very different in another"
+### Amor Mundi: Love of the World
 
-	* The co-authoring bit comes from archetypes of care
+Drawing inspiration from Hannah Arendt’s concept of 'amor mundi', or love of the world, archetypes of care place emphasis on nurturing the world we inhabit. It is about the extrasubjective “web” created when individuals come together not for self or communal care, but for worldly care. This act of tending to the world around us, distinct from self-concern or care for the Other, is an ethos deeply aligned with democratic life.
 
-	* Archetypes come from the roles that people have played in collectives
+This love for the world involves tending to both material and immaterial conditions, including relationships with each other, nonhumans, and technological entities. In this context, the world is not confined to the human sphere; it encompasses every aspect of life that influences our shared conditions.
 
-	* Does this come closer to co-authoring as the only way a collective puts things out there?
+### Democratic Practices and Care
 
-		* what about the non-humans? Where do they feature
+Caring for the world in this manner transcends the formal structures of governance; it is about democratic practice in its true essence. It's about everyone - human and non-human - participating in shaping the collective narrative, each contributing their unique perspectives and capacities.
 
-- supports and inspires mutual care for worldly conditions.
-- Hannah Arendt’s notion of amor mundi, or love of the world.
-- the complex, extrasubjective “web”
-- when people combine together to tend not to themselves but to the world in which they live.3
-- Care for the world, distinct from concern for oneself or for an Other, is an ethos uniquely fit for democratic life.1
-- the world, understood as the array of material and immaterial conditions under which human beings live—both with one another and with a rich variety of nonhumans, organic and technological.
-- democratic practice is irreducible to formal structures of government
+Not by liability but by accountability. It calls for taking responsibility, not because we are bound by legal or contractual obligations, but because we recognize our role within the collective and the impact of our actions on the world.
 
-Economy
+Understanding that each contributor has unique experiences and capacities is critical to co-authoring the collective narrative. We should strive to include diverse perspectives, acknowledging the specificity of each contributor's context and experiences.
 
-Liability vs accountability
+The process of collaboration is constantly in flux, with identities melding and unmelding, and varying perceptions of collaboration across different contexts. As we navigate through these dynamics, we must continually assess and adapt our approaches to collaboration.
 
-Specificity
+Different typologies of collaboration are evident across various spheres, such as job roles, independent collectives, and institutional structures. Each of these typologies presents unique challenges and opportunities for nurturing care practices.
 
-Adding to the collaborative
-
-Melding and unmelding identity
-
-Tangible perceptions of collaboration
-
-Different typologies of collaboration - jobs, independent, institution 
