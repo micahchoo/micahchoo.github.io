@@ -11,8 +11,6 @@ category:
 
 This led to the writing of [[Carefull Collectives and their Care Practices]]
 
-
-
 Archetypes of care are roles that individuals take within collectives, embodying various care practices that nurture our shared environments. They reflect the notion of co-authoring, where every individual in a collective contributes to the overall narrative, and nothing is put forth without collective input.
 
 This extends beyond human contributors; non-humans play significant roles too. The flora, fauna, and even the technological entities in our environment are part of this care system, each bringing unique contributions to the collective narrative.

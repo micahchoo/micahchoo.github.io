@@ -21,7 +21,7 @@ authors: Shafali, Dinesh, Bhanu, Micah
 
 ## SNU and POC
 
-- [What is Korsakow? - SNU on Vimeo](https://vimeo.com/37364528)
+<iframe title="What is Korsakow? &amp;ndash; This is a SNU" height="360" width="640" src="https://player.vimeo.com/video/37364528?h=9f14067809&amp;app_id=122963" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.77778 / 1; width: 100%; height: 100%;"></iframe>
 - [The Interactive Documentary: My Life, My Passion, My Playlist | MIT Docubase](https://docubase.mit.edu/playlist/the-interactive-documentary-my-life-my-passion-my-playlist)
 
 ## Warli Visuals
@@ -70,11 +70,16 @@ authors: Shafali, Dinesh, Bhanu, Micah
 16. Void setup tells all the context
 17. [ToonTalk](https://toontalk.github.io/ToonTalk/): Child-oriented programming language
 18. [Scratch](https://scratch.mit.edu)
-19. War
-
-li-processing-programming thing
+19. Warli-processing-programming thing
 20. Python library for game development
 21. Visual flow code: [Rete.js Visual Programming - A Messenger Bot](https://codepen.io/Ni55aN/pen/rpOKNb)
 22. [Twine - An Open-Source Tool for Telling Interactive, Nonlinear Stories](https://twinery.org)
 23. [Blockly - Google Developers](https://developers.google.com/blockly)
 24. [html energy](http://html.energy)
+
+
+### Smallest Narrative Unit
+
+The concept of the smallest narrative unit is an essential aspect of non-linear storytelling. It refers to the individual fragments or elements that, when connected, form a larger narrative. Each fragment has its own significance and contributes to the overall story. Non-linear storytelling often focuses on the interplay and connections between these fragments, allowing the audience to explore various paths and perspectives.
+
+In conclusion, storytelling in non-linear ways breaks away from traditional linear narratives, offering immersive and interactive experiences. Whether through the use of callbacks, Indian stories, virtual reality, new programming languages, or the exploration of the smallest narrative unit, non-linear storytelling expands the boundaries of narrative structure, engaging audiences in new and exciting ways. It challenges our understanding of storytelling conventions and opens up possibilities for innovation and creativity in the art of storytelling.

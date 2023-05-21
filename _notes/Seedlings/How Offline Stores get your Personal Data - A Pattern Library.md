@@ -14,6 +14,9 @@ season: spring
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
 How Offline Stores get your Personal Data - A Pattern Library is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
+#### See also
+- [[Public-Makings - Github Repo and Website]]
+
  **Table of Contents**
 
 - [Nukkad Shop Billing Machine](app://obsidian.md/index.html#Nukkad%20Shop%20Billing%20Machine)

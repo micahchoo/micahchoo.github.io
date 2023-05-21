@@ -8,8 +8,9 @@ tags:
 toc: true
 season: spring
 ---
-This led to the development of [Tech Translation - Alternatives from Etymology](https://micahchoo.github.io/Public-Making/Tech-Translation-Alternatives-from-Etymology.html)
-and is part of [[Public-Makings - Github Repo and Website]]
+#### See Also
+- This led to the development of [Tech Translation - Alternatives from Etymology](https://micahchoo.github.io/Public-Making/Tech-Translation-Alternatives-from-Etymology.html)
+- and is part of [[Public-Makings - Github Repo and Website]]
 
 The term "battery" has carried various meanings throughout history and its application has significantly evolved over time.
 

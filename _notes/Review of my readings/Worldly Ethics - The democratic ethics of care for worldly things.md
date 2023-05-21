@@ -8,6 +8,9 @@ category:
 ---
 
 # chapter 3_ the democratic ethics of care for worldly things
+##### See Also
+- Quite integral to [[Carefull Collectives and their Care Practices]]
+
 
 # Meta: 
 - Author: Ella Myers

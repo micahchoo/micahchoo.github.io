@@ -32,6 +32,4 @@ Our recent involvement in a project to establish a local mesh network - acting a
 	* Archetypes originate from the roles people have assumed in collectives.
 	* Does this hint that co-authoring is the only way a collective shares its output?
 		* Where do non-humans fit in this narrative?
-	* Paul's insights - "The archetypes function well because they can be adapted to different communities. A maintainer in one domain looks vastly different
-
- in another."
+	* Paul's insights - "The archetypes function well because they can be adapted to different communities. A maintainer in one domain looks vastly different in another."
