@@ -27,6 +27,5 @@ tags: Index-Page
 - [[The Disenfranchisement of Adivasis in Kerala]]
 - [[The Imposter Among Us]]
 - [[What is Innovation for India]]
-- [[Writings]]
 
 %% End Waypoint %%
