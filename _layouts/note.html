@@ -3,8 +3,7 @@ layout: default
 ---
 
 <article>
-  <!-- <a id="transparent" style="padding:0.2em; border:#f3539b; display:hidden;" href="#graph">Click here   <sup>it's all connected || ഇനീം  കഥകൾ	|  |     आणखी विनोद 	|  |      और पत्र 	|  |       ಅಧಿಕ ವಿಚಾರಗಳು   </sup></a> -->
-  <hr>
+
   <div id="notes-entry-container">
     <content>
       {{ content }}
@@ -13,7 +12,21 @@ layout: default
     <div id="side">
       <content>
         <div class="connection-box">
-          <h4>Connections to this</h4>
+          <div class="tag-box">
+          <p>Tags to this<p>
+          {% if page.tags.size > 0 %}
+          <div class="tag-list">
+            {% for tag in page.tags %}
+            <a class="tag" href="{{ site.url }}/tags/#{{ tag }}">{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% else %}
+          <div class="no-tag-message">
+            <p>No tags to this post</p>
+          </div>
+          {% endif %}
+        </div>
+          <p>Connections to this<p>
           {% if page.backlinks.size > 0 %}
           <div class="backlink-list">
             {% for backlink in page.backlinks %}
@@ -27,28 +40,12 @@ layout: default
             <p>No links to this post</p>
           </div>
           {% endif %}
-        </div>
-        <div class="tag-box">
-          <h4>Tags to this</h4>
-          {% if page.tags.size > 0 %}
-          <div class="tag-list">
-            {% for tag in page.tags %}
-            <a class="tag" href="{{ site.url }}/tags/#{{ tag }}">{{ tag }}</a>
-            {% endfor %}
-          </div>
-          {% else %}
-          <div class="no-tag-message">
-            <p>No tags to this post</p>
-          </div>
-          {% endif %}
+          <br>
+          {% include notes_graph.html %}
         </div>
       </content>
     </div>
   </div>
 </article>
 <hr>
-<hr>
 
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
-
-{% include notes_graph.html %}

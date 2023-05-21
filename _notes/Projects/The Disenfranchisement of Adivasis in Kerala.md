@@ -15,54 +15,54 @@ linter-yaml-title-alias: A Literature Review
 
 # A Literature Review	
 
-These were some readings and anecdotes that set the foundation of my knowledge about that tribe. This is an annotated list of these readings and the things I learnt from them
+This literature review provides insights into various aspects of the Paniya tribe, covering topics such as population, caste names and structures in Wayanad, periods of Paniya history, inter-tribal disparity, work and employment for Adivasis, alienation through the education system, public perceptions, plantation economy, exclusion from the financial system, and health issues.
 
 ## Population
 
-1. The scheduled tribes’ population in Kerala is (4.85 lacs)1.45% of the general population according to the [2011 census](http://spb.kerala.gov.in/EconomicReview2016/web/chapter04_14.php).
+1. According to the 2011 census, the scheduled tribes' population in Kerala is 4.85 lakh, which accounts for 1.45% of the general population. ([Source](http://spb.kerala.gov.in/EconomicReview2016/web/chapter04_14.php))
 
 ## Caste Names, Structures in Wayanad
 
-2. In this [**reading**](http://shodhganga.inflibnet.ac.in/bitstream/10603/46446/11/11_chapter3.pdf), I read how the caste system was organized in Wayanad. **Pages 1–13** outline each of the tribes, their histories and how they got their names, which is interesting because of the implications it has for the phrase “What’s in a name”; **pages 14–19** describe the history of Wayanad and its Adivasi populations and **page 20** describes the tribe at the focus of this articleThe Paniyans.
+2. A reading ([**source**](http://shodhganga.inflibnet.ac.in/bitstream/10603/46446/11/11_chapter3.pdf)) explores the organization of the caste system in Wayanad. It delves into the history and naming conventions of each tribe, providing insights into their origins and implications. The focus of this article is on the Paniya tribe. The reading also covers the history of Wayanad and its Adivasi populations.
 
-## Periods of Paniya history
+## Periods of Paniya History
 
-3. [**Kulirani**](https://www.researchgate.net/publication/242184693_THE_SHRINKING_LIVELIHOOD_STRATEGIES_OF_THE_PANIYAR) summarizes Paniya history consisting of 4 periods: an early hunter-gatherer period leading to a long period of being agrarian slaves. Then as liberated wage earners, they entered an extremely competitive market, grew dependent on state welfare as a rising sense of desperation and hopelessness set in
+3. Paniya history can be divided into four periods, as summarized in a paper called "Kulirani" ([**source**](https://www.researchgate.net/publication/242184693_THE_SHRINKING_LIVELIHOOD_STRATEGIES_OF_THE_PANIYAR)). These periods include an early hunter-gatherer phase, a long period of being agrarian slaves, a phase of being liberated wage earners in a competitive market, and a period marked by a rising sense of desperation and hopelessness, leading to dependence on state welfare.
 
-## The tribal people are not a monolith
+## The Tribal People are Not a Monolith
 
-4. This [**paper**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.823.7446&rep=rep1&type=pdf) outlines the facts and figures that inconveniently show the inter-tribal disparity in benefits gained from welfare schemes and how the backward tribes were left behind. Schemes like the NREGS were being used as employment and income-generation majorly by **the relatively forward tribes.** There are huge differences in the socio-economic and political lives of different tribes.
-5. This **inter-tribal disparity** is demonstrated even more strongly in this [**paper**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441884/)**.** It shows why it is a mistake to consider the tribes as a monolithic group of people, because of the vast differences even in those groups. It also shows the stark contrast between the ST communities and the other non-tribal groups
+4. A paper ([**source**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.823.7446&rep=rep1&type=pdf)) highlights the inter-tribal disparities in welfare scheme benefits and socio-economic conditions. It emphasizes that different tribes have vastly different socio-economic and political lives, challenging the notion of tribes as a monolithic group.
+
+5. Another paper ([**source**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441884/)) further emphasizes the inter-tribal disparities, showcasing the significant differences within tribal groups. It also sheds light on the stark contrast between ST communities and non-tribal groups.
 
 ## Work and Employment for Adivasis
 
-6. They are without political representation, economic growth or physical wellbeing. [This paper](http://imrfjournals.in/pdf/MATHS/SSIRJ-VOLUME-2-ISSUE-1-2016/78.pdf) shows the kind of work that the Adivasis do and their average monthly earnings(2016).
+6. A paper ([**source**](http://imrfjournals.in/pdf/MATHS/SSIRJ-VOLUME-2-ISSUE-1-2016/78.pdf)) explores the kind of work Adivasis engage in and their average monthly earnings as of 2016. It highlights their lack of political representation, economic growth, and physical well-being.
 
-## The alienation through the education system
+## Alienation through the Education System
 
-7. While researching how a school can be set up for tribal children, we were alerted by a teacher to the various problems that hinder Paniya children’s educationrestlessness in the class, truancy(often encouraged by their parents), living far away from the school, alcoholism being a community addiction etc. In my research, I found that a lot of these were explained by this [**paper**](http://sci-hub.tw/10.1177/2455328x17745174) _(This is a very interesting read that helps you question the inclusivity of our educational models)_
-	_This is an interesting video on how an Education system with the Adivasis in mind would look_
-	https://www.youtube.com/watch?v=DAKtKeOGWQQ
+7. The challenges faced by Paniya children in accessing education are outlined in a paper ([**source**](http://sci-hub.tw/10.1177/2455328x17745174)). The paper raises questions about the inclusivity of existing educational models. Additionally, a video ([**source**](https://www.youtube.com/watch?v=DAKtKeOGWQQ)) provides insights into an education system designed with Adivasis in mind.
 
 ## Public Perceptions
 
-8. Our discussions with the locals brought up the themes of the Paniyans being lazy, unreliable, alcoholic and living off the government’s welfare schemes. This, I found later, goes to show how oppressive systems perpetuate destruction
-9. We also saw, firsthand, how the Paniyas had become a spectacle when our guide stopped the rickshaw because he some of them walking by and told us to take photos. We learnt later that this might be because of the amount of social research and government aid that is centered around them
+8. Local discussions revealed stereotypes about Paniyas, such as being perceived as lazy, unreliable, alcoholic, and dependent on government welfare schemes. These perceptions reflect the perpetuation of oppressive systems.
+
+9. The Paniyas often become objects of spectacle, as observed firsthand when a guide encouraged taking photos of Paniyas passing by. This phenomenon may be attributed to the focus of social research and government aid centered around the tribe.
 
 ## Plantation Economy
 
-10. A majority of the Paniya workers worked with paddy-cultivation and were losing work because of the expansion of the plantations and because they weren’t as easily absorbed into the plantation labor economy **\[**[**1**](http://shodhganga.inflibnet.ac.in/bitstream/10603/222/16/16_chapter7.pdf)**\]\[**[**2**](http://www.internationaljournalssrg.org/IJEMS/2018/Volume5-Issue3/IJEMS-V5I3P101.pdf)**\]**
+10. Paniya workers primarily engaged in paddy cultivation but faced a decline in employment due to the expansion of plantations. They were not easily absorbed into the plantation labor economy. ([**Source 1**](http://shodhganga.inflibnet.ac.in/bitstream/10603/222/16/16_chapter7.pdf), [**Source 2**](http://www.internationaljournalssrg.org/IJEMS/2018/Volume5-Issue3/IJEMS-V5I3P101.pdf))
 
-## Out of the Financial System
+## Exclusion from the Financial System
 
-11. The majority of Paniya population was excluded from the [financial](http://shodhganga.inflibnet.ac.in/bitstream/10603/24419/13/13_chapter6.pdf) sector and abstained from any formal financial activity
+11. The majority of the Paniya population was excluded from formal financial activities and the financial sector. ([**Source**](http://shodhganga.inflibnet.ac.in/bitstream/10603/24419/13/13_chapter6.pdf))
 
 ## Health and Caste
 
-12. The Paniya Tribe is beset by health problems on every side. [**\[1\]**](http://www.ijamhrjournal.org/downloadpdf.asp?issn=2349-4220;year=2015;volume=2;issue=1;spage=33;epage=38;aulast=Philip;type=2) explains the gravity of the problem of malnutrition in Paniya children. It also shows how the Paniyas have underutilized the governmental schemes available and how that signifies a terrible deprivation at community levels. **\[**[**2**](https://www.ncbi.nlm.nih.gov/pubmed/17108296/)**\]** outlines the effects of caste on the health of tribal women — how lower castes find caste magnifying their vulnerabilities while upper castes are protected by an invisible caste buffer. [**\[3\]**](http://www.iosrjournals.org/iosr-jhss/papers/Vol.%2021%20Issue4/Version-3/C0214033036.pdf) outlines the occurrence of various diseases among the Adivasis and also has statistics on morbidity patterns of the Paniyas. To add to this, Sickle Cell Anaemia, which is already prevalent in tribal communities, was even more present in the Paniya Communities.
-They also suffer from sickle cell anaemia in large numbers. Nearly fifteen percent of the population suffers from sickle cell anaemia. This disease is quite difficult and painful to cure because it needs a bone marrow transplant. Bone marrow transplant, also known as stem cell transplant, offers the only potential cure for sickle cell anemia. It's usually reserved for people younger than age 16 because the risks increase for people older than 16. Finding a donor is difficult, and the procedure has serious risks associated with it, including death. As a result, treatment for sickle cell anemia is usually aimed at avoiding crises, relieving symptoms and preventing complications. Babies and children age 2 and younger with sickle cell anemia should make frequent visits to a doctor. Treatments might include medications to reduce pain and prevent complications, and blood transfusions, as well as a bone marrow transplant.
+12. The Paniya Tribe faces numerous health problems. One study ([**Source 1**](http://www.ijamhrjournal.org/downloadpdf.asp?issn=2349-4220;year=2015;volume=2;issue=1;spage=33;epage=38;aulast=Philip;type=2)) focuses on malnutrition among Paniya children, highlighting their underutilization of available governmental schemes and the resulting deprivation at the community level. Another study ([**Source 2**](https://www.ncbi.nlm.nih.gov/pubmed/17108296/)) explores the impact of caste on the health of tribal women, with lower castes experiencing amplified vulnerabilities while upper castes enjoy protection due to an invisible caste buffer. Additionally, a study ([**Source 3**](http://www.iosrjournals.org/iosr-jhss/papers/Vol.%2021%20Issue4/Version-3/C0214033036.pdf)) examines the occurrence of various diseases among Adivasis, including the prevalence of sickle cell anemia in Paniya communities.
+13. Access to quality healthcare is limited for tribal populations due to their remote locations. Government hospitals, community health centers, and primary health centers, though available, are insufficient to meet their needs. Mobile medical units have been introduced to cater to remote tribal areas. ASHA workers play a crucial role in responding to healthcare issues and alerting the government healthcare infrastructure. However, historical aversion to healthcare institutions among Paniyas remains a challenge. Government hospitals in Wayanad, located in Kalpetta, are often the only facilities equipped for specialized operations like deliveries, further restricting access to quality healthcare for the tribals living in remote areas.
 
-There are Government Hospitals, Community Health Centers, Primary health centres, Sub-centres which have good coverage. But since the tribals live in such remote areas, the health centres were not enough. To solve this, the government has instituted mobile medical units to cater to the remote parcels of land that the tribals live in. There is one ASHA worker for every 1000 people. Often they are the first-responders and alert the government healthcare infrastructure to any problems faced by the tribal peoples. Historically, the Paniyas have refused to have any involvement with the healthcare infrastructure of the government. An interview with a healthcare worker at a Mananthawady subcentre near northern Wayanad revealed that the aversion ran so deep that they refused to even accompany someone who was ill to the hospital. This maybe, as she puts it, the fear of healthcare institutions or the fear of being manipulated which is embedded in their origin story. The origin story alerts them to the dangers of getting too familiar with more dominant powers and the suffering that follows after. Other than the ASHA workers, there is a subcentre with limited facilities but primary healthcare for every 5000 people. There are 198 such subcentres in Wayanad. The next two levels are Community Health Centres and Government Hospitals. The Government Hospital in Wayanad is in Kalpetta. Often this is the only place that can handle specialized operations like deliveries. This is one more thing that is restricting access to quality healthcare for the tribals who normally live in far flung areas.
+
 
 # System Map of Issues
 

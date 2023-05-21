@@ -10,7 +10,7 @@ content-type: eg
   
   
 
->I work with various collectives learning to nurture conversations, efforts and people. I do this through creative making and facilitating cross-conversations. I work with these collectives in the domains of open community technology(_[Janastu,](https://open.janastu.org/)_) , human rights in the inclusive digital(_[Design Beku](https://designbeku.in/)_), art-based design practice(Agamashaala), archival, and annotation(_[Milli](https://www.milli.link/)_) and creative place-based research undertaken in the Dakkhani region [Living Labs Network & Forum | Twitter, Instagram | Linktree](https://linktr.ee/llnaf) ._
+>I work with various collectives learning to nurture conversations, efforts and people. I do this through creative making and facilitating cross-conversations. I work with these collectives in the domains of open community technology(_[Janastu,](https://open.janastu.org/)_) , human rights in the inclusive digital(_[Design Beku](https://designbeku.in/)_), art-based design practice(Agamashaala), archival, and annotation(_[Milli](https://www.milli.link/)_) and creative place-based research undertaken in the Dakkhani region [Living Labs Network & Forum](https://linktr.ee/llnaf) ._
   
 What kind of change am I excited by?
 
@@ -27,7 +27,7 @@ What strengths do I play to?
 What are three thing I think everyone should read?*
 1. [Feral Atlas](https://feralatlas.supdigital.org/?cd=true&rr=true&cdex=true)
 2. [Architecture’s Scaffolds,](https://www.e-flux.com/architecture/overgrowth/221616/architecture-s-scaffolds/)
-3. [Fragile Connections | Living a Feminist Life | Books Gateway | Duke University Press](https://read.dukeupress.edu/books/book/1933/chapter-abstract/191601/Fragile-Connections?redirectedFrom=fulltext)
+3. [Fragile Connections - Living a Feminist Life - Books Gateway - Duke University Press](https://read.dukeupress.edu/books/book/1933/chapter-abstract/191601/Fragile-Connections?redirectedFrom=fulltext)
 
 
   
@@ -35,7 +35,7 @@ What are three thing I think everyone should read?*
   
 - [Living Labs Network and Forum]((https://linktr.ee/llnaf) - Living Labs is transdisciplinary research network in the Dakkhani Region. We collectively engage in a creative place-based research and design practice. Looking for alternative ways to look at development especially through the ideas of specificity and inheritance.  
     *- I help with admin work, research on ground, talking to partners, tooling, publishing and maintenance*  
-- [[Design Beku]] - Design Beku is a multidisciplinary collective working in the intersections of design, technology, human rights and urban design reimagining new ways of working with care   
+- [Design Beku](https://designbeku.in) - Design Beku is a multidisciplinary collective working in the intersections of design, technology, human rights and urban design reimagining new ways of working with care   
     *- I help with documentation, research work, admin work and maintenance*  
 
 ### About this website

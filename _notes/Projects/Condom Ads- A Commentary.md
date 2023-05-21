@@ -83,4 +83,4 @@ By providing readymade abbreviations that both the customer and the pharmacist c
 
 ## Other Campaigns dealing with stigma
 
-	- [[Balbir Pasha: https://economictimes.indiatimes.com/brand-equity/whos-this-balbir-pasha/articleshow/34297026.cms?from=mdr]]
+[Balbir Pasha:](https://economictimes.indiatimes.com/brand-equity/whos-this-balbir-pasha/articleshow/34297026.cms?from=mdr)

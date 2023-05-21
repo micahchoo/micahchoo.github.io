@@ -1,18 +1,13 @@
 ---
 layout: note
 title:
-tags: project-based learning, creative urban practice
+tags: project-based-learning creative-urban-practice
 source:
 compiler:
 category:
 ---
-
-![](/Pasted%20image%2020230427182635.png)
-[Chickpet Field Visit - HCD Sem 7 — Felt](https://felt.com/map/Chickpet-Field-Visit-HCD-Sem-7-ekx6paEpSTmd1UZNCTj13B?lat=12.968386&lon=77.577884&zoom=16.41)
-
-
-# Seeing, Being, Doing: design
-# Gathering Spaces:
+## Seeing, Being, Doing: design
+## Gathering Spaces:
 *Responding as a creative practitioner to places where humans and non-humans gather*
 
 This course description is for a learning program that I, along with Navin Kushwah and Naveen Bagalkot, jointly delivered to our 4th year Human-Centered Design (HCD) students. We zeroed in on one core theme: the investigation and comprehension of gathering spaces, locations where humans and non-human entities convene. Our ambition was to test numerous methods of situated making as a unique form of inventive practice.
@@ -21,9 +16,11 @@ We aimed to untangle queries pertaining to the process of learning from, existin
 
 They also assumed varied roles within these gathering spaces. The pivotal roles of honest and speculative thinking, identifying and linking diverse experiences and knowledge pools, and the act of making as crucial vehicles of inquiry began to come into focus as the course progressed.
 
+![](/Pasted%20image%2020230427182635.png)
+[See full map at Chickpet Field Visit - HCD Sem 7 — Felt](https://felt.com/map/Chickpet-Field-Visit-HCD-Sem-7-ekx6paEpSTmd1UZNCTj13B?lat=12.968386&lon=77.577884&zoom=16.41)
 
 ### Vibes: 
-https://www.youtube.com/watch?v=AZh9EwjlRl0
+<iframe title="Up Close: “hand, writing” by Julia Solomonoff | THE SHED" src="https://www.youtube.com/embed/AZh9EwjlRl0?feature=oembed" height="240" width="540" allowfullscreen="" allow="fullscreen"></iframe>
 
 
 ### The brief: 
@@ -99,8 +96,6 @@ Several potential applications and themes emerge from this course:
 - **Cultural and Historical Documentation**: Focusing on documentation and preservation of cultural and historical elements of spaces.
 - **Design Artifacts and Installation**: Translating research and observations into tangible design artifacts or installations.
 
-
-- 
 ### Reading List
 [[Srishti SDB Studio - Reading List]]
 **

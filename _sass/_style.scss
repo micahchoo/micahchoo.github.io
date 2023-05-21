@@ -13,8 +13,22 @@ $border-radius: 4px;
 	opacity: 0.1;
 	line-height: 1.5;
   }  
+  
+#header-area {
+  display: grid;
+  grid-template-columns: auto; /* Only one column for both elements */
+  grid-template-rows: auto 1fr; /* First row for banner, second row for top-stuff */
+}
+
+
+#top-stuff {
+  grid-row: 2; 
+  /* Place the top-stuff element in the second row */
+  padding-top:1em;
+  }
+  
 .header-container {
-  object-fit: scale-down;
+  display: flex;
   border-radius: 10px;
   box-shadow: 0 6px 20px 0 rgba(12, 248, 252, 0.2);
   background: linear-gradient(hsla(333, 87%, 64%, 0.2), #fff1e6);
@@ -22,34 +36,30 @@ $border-radius: 4px;
   max-width: 100%;
 }
 
-.banner {
-  object-fit: contain;
-  padding: 3.5%;
-  max-height: 100%;
-  max-width: 100%;
+#banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+
 .header-image {
-  object-fit: contain;
-  max-height: 45vh;
-  max-width: 35vw;
+  height: 300px;
+  object-fit: cover;
+  max-width: 100%;
   padding: 0;
 }
 
 .header-content {
+  flex: 1;
   padding: 0 2.5em 2.5em 2.5em;
 }
-
-.header-subtitle {
-  color: #4962ad;
-  font-family: 'WixMadeforDisplay', sans-serif;
-  vertical-align: top;
-  line-height: 1.2;
-}
-
 .header-links {
+  margin: 30px 0 0 0;  
   color: #8c9dcf;
-}
+  overflow-wrap: break-word;
+  word-break: break-word;
+  }
 
 .header-links a {
   margin-right: 10px;
@@ -57,10 +67,10 @@ $border-radius: 4px;
 }
 
 .header-links a i {
-  height: 0.85em;
+  height: 0.4em;
 }
-  
-  
+
+
 @font-face {
   font-family: 'WixMadeforDisplay';
   src: url('assets/fonts/WixMadeforDisplay/WixMadeforDisplay-Bold.ttf') format('truetype'),
@@ -93,6 +103,22 @@ body {
   @media (min-width: 720px) {
     font-size: 0.9em;
   }
+}
+
+
+.site-title {
+  color: #333333;
+  line-height:1.2em
+}
+.header-subtitle {
+  font-family: 'WixMadeforDisplay-Medium', serif;
+  font-size: 0.8em;
+  color: #999999;
+  line-height:1em
+}
+.superscript {
+  font-size: 1em;
+  vertical-align: super;
 }
 
 time {
@@ -128,48 +154,47 @@ time {
   font-size: 0.9em;
   object-fit: contain;
   border-radius: 4px;
-  background: linear-gradient(hsla(333, 87%, 64%, 0.4), #fff1e6);
+  background: linear-gradient(#fff1e6, hsla(333, 87%, 64%, 0.4));
   padding: 2em;
   box-shadow: 0 6px 20px 0 rgba(12, 248, 252, 0.2);
 }
 
 .tag-box {
-  padding: 1% 1% 1% 0%;
+  padding: 0 auto;
+}
+.tag-box p,
+.connection-box p {
+  font-weight: bold;
+  font-size:1em;
+  margin-bottom: 10px;
 }
 
 .backlink-list {
+  margin-top: 10px;
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 1.5em;
   grid-template-columns: repeat(1fr);
 }
 
 .backlink-item {
+  margin-bottom: 5px;
+}
+.backlink-item:hover {
   cursor: pointer;
 }
 
 .tag-list {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 10px;
+
 }
 
-.tag {
-  border: 1px solid #f3539b;
-  border-radius: 4px;
-  color: #f6f6f6;
-  display: inline-block;
-  font-family: 'WixMadeforDisplay-Medium', sans-serif;
-  font-size: 1rem;
-  line-height: 1.5;
-  margin: 0.5em;
-  padding: 0.3em 0.6em;
-  position: relative;
-  text-decoration: none;
-  background: linear-gradient(hsla(333, 87%, 34%, 0.8), hsla(333, 87%, 44%, 0.8));
-}
 
 .no-link-message,
 .no-tag-message {
   font-size: 0.9em;
+  text-align:center;
 }
 
 hr {
@@ -211,13 +236,7 @@ p, li {
 	font-size:1.2em;
   }
 
-hr {
-  width: 100%;
-  border: 0;
-  height: 1px;
-  margin: 1.5em 0;
-  background: $color-border;
-}
+
 html {
   font-size: 16px; /* Set the base font size */
 }
@@ -267,7 +286,7 @@ h3:hover .header-link,
 h4:hover .header-link,
 h5:hover .header-link,
 h6:hover .header-link {
-  display: inline;
+  display: inline-block;
 }
 
 
@@ -334,8 +353,9 @@ nav {
 }
 
 #notes-entry-container {
+  margin-top:35px;
   display: grid;
-  grid-gap: 1.2em;
+  grid-gap: 1.7em;
   grid-template-areas:
     content
     side;
@@ -354,20 +374,20 @@ nav {
 
 
 .tag {
-  border: 1px solid #f3539b;
+  border: 1.5px solid #f3539b;
   border-radius: $border-radius;
   color: #f6f6f6;
   display: inline-block;
-  font-family: 'WixMadeforDisplay-Medium', sans-serif;
-  font-size: 0.8rem;
+  font-family: 'WixMadeforDisplay-SemiBold', sans-serif;
+  font-size: 0.9rem;
   line-height: 1.5;
   margin: 0.5em;
   padding: 0.3em 0.6em;
   position: relative;
   text-decoration: none;
   background: linear-gradient(hsla(333, 87%, 34%, 0.8), hsla(333, 87%, 44%, 0.8));
-
 }
+
 
 .tag::before {
   content: "";
@@ -422,13 +442,11 @@ code {
   grid-template-rows: auto 1fr; /* First row for banner, second row for top-stuff */
 }
 
- #banner {
-  /* Add styles for the banner element */
-}
 
- #top-stuff {
-	grid-row: 2; /* Place the top-stuff element in the second row */
-	padding-bottom:1em;
+#top-stuff {
+  grid-row: 2; 
+  /* Place the top-stuff element in the second row */
+  padding-bottom:1em;
   /* Add styles for the top-stuff element */
 }
  @media (min-width: 720px) {

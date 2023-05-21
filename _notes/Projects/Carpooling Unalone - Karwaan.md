@@ -12,13 +12,11 @@ season: spring
 
 # Carpooling Unalone - Karwaan
 
-We explore how communities are formed, why carpooling hasn’t seen commercial success in India yet? In doing so, we design a community-based carpooling solution that uses events to bring these communities notes/together.
+# Why hasn’t carpooling gained popularity in India?
 
->Why hasn’t carpooling gained popularity in India?
+We carried out some secondary research to find possible answers to this question. We looked at various aspects:
 
-After some secondary research, we extracted some possible answers to this question. We looked at many things like:
-
-- What do Potential carpoolers want?
+- What do potential carpoolers want?
 - Who are the kinds of passengers that would potentially pool a ride?
 - What are the incentives for someone to pool a ride?
 - What are some reasons not to?
@@ -27,44 +25,45 @@ After some secondary research, we extracted some possible answers to this questi
 - What remains to be solved?
 - Since most of these papers were from elsewhere, what were the defining factors in India?
 
-These are the clusters that we found:
+## Key Findings:
 
-**Aspirational value of a car:** This related to the inherent value of a car as a status symbol in society. It is one of the things that people aspire to obtain.
+1. **Aspirational value of a car:** Cars are seen as a status symbol in society, and owning one is often an aspiration.
 
-**Safety:** The inherent danger of getting into a stranger’s car is ever-present, especially in India.
+2. **Safety:** The inherent danger of getting into a stranger’s car is ever-present, especially in India.
 
-**Inconvenience**: Having to maintain pool discipline, the pool driver have to negotiate pick up points with every member individually. Also there were other factors here such as losing freedom of mobility because you are with others; your commute might be delayed because of your co-pooler; being packed in a carpool can test physical boundaries as well; having to take longer routes to pick up and drop the co-poolers
+3. **Inconvenience:** Factors like maintaining pool discipline, negotiating pick-up points, potential delay due to co-poolers, and longer routes are a source of inconvenience.
 
-**Legal Ambiguity** — The Indian Government has restricted private vehicles from undertaking commercial business. Inspite of this, there are many carpooling platforms running in India. However, this has kept prices on carpooling platforms relatively low, going as low as 3 INR per kilometer. Recently, the Karnataka government started fining people who were carpooling as well
+4. **Legal Ambiguity:** Despite restrictions on private vehicles from undertaking commercial business, many carpooling platforms are running in India. This has kept prices low, but has led to enforcement actions from the government.
 
-**Lack of Awareness:** This is a factor that we stumbled quite by accident while circulating a pilot questionnaire. People were aware of carpooling as an informal contract but not as a formalized platform based phenomenon.
+5. **Lack of Awareness:** Many people are not aware of formalized platform-based carpooling.
 
-**Social Barriers:** These included the factors related to class differences, building a trust among poolmates, the additional responsibility of negotiating a system of timing and splitting costs, the possibility of coordination failure and the time needed to build a mutual understanding.
+6. **Social Barriers:** Factors related to class differences, building trust among poolmates, and the responsibility of negotiating a system of timing and splitting costs can also hinder carpooling.
 
-We decided to observe the environments in which carpooling was working successfully in India. As a result, we soon found out that apps like Quick Ride, Ho Ho rides and Wunder were targeting the IT transport system in Bangalore, encouraging and creating favorable conditions for IT professionals to adopt carpooling while branding their actions as their contribution to a greater environmental good.
+## Successful Carpooling Environments in India
 
-Our interviews and interactions with people commuting as part of IT carpools showed us some factors that were boosting this trend:
+Apps like Quick Ride, Ho Ho rides and Wunder are promoting carpooling among IT professionals in Bangalore. Our interviews showed us factors boosting this trend:
 
-1. Cohort Travel: The ability to travel with people from the same background or same interests as you
-2. Part of corporate culture: Since these services were tied into the IT firms’ operations, adoption was easy for these professionals
-3. Platform tie-ups: Tie-ups of IT firms with carpooling platform adds to the previous factor and makes it easier to use
-4. Common destination: This is also a significant factor, as the destination is fixed, it removes a lot of the negotiation complexity of the carpool
-5. Shared context that is beyond carpooling itself: Since, they are from the same field, they share commonalities that extend beyond the fact that they are in a car together. This is great for a innate trust and better conversations, making the poolers less prone to anxiety and more likely to enjoy the banter.
-6. Regular Commute and Routine times: This factor along with the “Common Destination” factor reduced a lot of the complexity involved in this whole process.
-This led to a shift in our perspective — as we looked at ‘cohort/community travelling’ as an important component that dominated all the other ambiguous aspects of carpooling. Trust, shared community and culture had to become a part of any system that we designed.
+- Cohort Travel
+- Part of corporate culture
+- Platform tie-ups
+- Common destination
+- Shared context
+- Regular Commute and Routine times
 
->“We are in for a longer game, we are here to build a culture and community of carpoolers than looking at profitability at the moment”,
+This led us to understand the importance of 'cohort/community travelling' as a key component in carpooling. Trust, shared community and culture became a significant part of our system design.
 
-Vivek Kumar, a marketing manager at Wunder.
+As Vivek Kumar, a marketing manager at Wunder, stated:
 
-The Principles we set down for the system we were designing
+>“We are in for a longer game, we are here to build a culture and community of carpoolers than looking at profitability at the moment”.
+
+## The Principles for Our System Design
 
 1. It had to be fun
 2. It had to be community-based
 
-At the time, we as a team had come up with a prototype which I will link [here](https://medium.com/exploring-ride-sharing-systems-at-scale/creating-a-community-based-carpooling-system-afbac6b732cb)
+We initially came up with a [prototype](https://medium.com/exploring-ride-sharing-systems-at-scale/creating-a-community-based-carpooling-system-afbac6b732cb) as a team. I also created my own prototype using Figma, available [here](https://www.figma.com/file/lGZklLSlFA2yjPxmcyykud/Karwaan?node-id=1%3A2318).
 
-However, I came up with my own prototype using Figma, [here](https://www.figma.com/file/lGZklLSlFA2yjPxmcyykud/Karwaan?node-id=1%3A2318)
+## Contributors
 
 People Involved: @BaishnabiMonger, @SamarthGupta, @SarojTailor, @AnantKaur, @MicahAlex
 

@@ -11,12 +11,11 @@ tags: Index-Page
 
 ## Index
 
-- [[Bose and Food in India]]
+- [[Project Antarsam - An Alternate Dimension of Decentralized Food Production]]
 - [[The Imposter Among Us]]
 - [[The Disenfranchisement of Adivasis in Kerala]]
 - [[What is Innovation for India]]
-- [[Trustworthy AI - A Sensory Firewall]]
-- [[Srishti Studio Notes]]
+- [[Facilitating a Design Studio - Overview]]
 - [Carefull Collectives and their Care Practices](https://osf.io/ds39u)
 - [[Invisible Cities - Koramangala]]
 - [[Speculative Storytelling in Wayanad]]
@@ -26,4 +25,4 @@ tags: Index-Page
 - [[Compost Magazine - Technofutures from Bidar]]
 - [[Designer's Ace]]
 - [[Carpooling Unalone - Karwaan]]
-- [[Milli Archival Consortium]]
+- [[Designing for an Archival Interface]]
