@@ -49,7 +49,7 @@ content-type: eg
       <img class="image-small" src="assets/img/archive.svg" alt="Logo">
       <div>
         <h1 class="card-h1">
-          [[Hoardings]]
+          [[Hoarding]]
         </h1>
         <p class="card-p">
           Bunch of collections from all over the internet, from zines to recipes
