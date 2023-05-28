@@ -40,5 +40,8 @@ What are three thing I think everyone should read?*
 
 ### About this website
 
-khattamicah is a pun. Khatta-meetha is a flavour of a crushed ice lolly that means soursweer. Micah is pronounced like meekah. 
-This is a jekyll website, forked from another project and with my own CSS. 
+The name of this website, 'khattamicah', is a play on words. 'Khatta-meetha' is a type of crushed ice lolly that translates to 'sour-sweet', and 'Micah' sounds like 'meekah'. This site was created using Jekyll, based on another project, and features my personal CSS.
+
+# See Also
+- [Portfolio - Micah Alex ](https://khattamicah.tumblr.com)
+- [micahchoo (Micah Alex) · GitHub](https://github.com/micahchoo)

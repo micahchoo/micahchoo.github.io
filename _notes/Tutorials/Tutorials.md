@@ -8,6 +8,7 @@ tags: Index-Page
 ---
 %% Begin Waypoint %%
 - [[Cantaloupe tutorial]]
+- [[Deep Reading Clubs]]
 - [[Fantasy map - zoomable and panable]]
 - [[force-directed graph]]
 - [[How can i use an illustration as a map in leaflet]]
