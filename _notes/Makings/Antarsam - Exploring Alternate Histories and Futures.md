@@ -26,5 +26,5 @@ The choice of Bengal as the focal point for our exploration wasn't accidental. B
 ## Name: The Power of Linguistics
 The choice of the term "Antarsam" was a deliberate linguistic exploration. By merging "antar-" (meaning 'in between') and "sam" (short for 'samachar', meaning 'news'), we sought to challenge traditional metaphors associated with the internet. Similarly, the term "annacharkha" (with 'anar' meaning 'grain' and 'charkha' referring to a 'weaving wheel') was a symbolic exploration of how different metaphors could shape the manifestation of technology in this alternate world.
 
-A Ripple Effect of Small Changes
+### A Ripple Effect of Small Changes
 The Antarsam project was a fascinating exploration into the knock-on effects of small changes in the existing socio-political and technological landscapes. It offers an optimistic perspective on the individual's power against the seemingly monolithic systems, challenging the notion of those systems as cold hard facts. It reminded me that even the most formidable of systems are ultimately a construct of our collective imagination and actions.

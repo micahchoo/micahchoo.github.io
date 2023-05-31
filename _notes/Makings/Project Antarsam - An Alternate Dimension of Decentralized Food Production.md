@@ -43,35 +43,3 @@ Further research is being carried out to create diverse food options using simpl
 We christen this entire system 'Langaar'. The incorporation of women into the labor force will potentially boost our production by five times in the next two years.
 
 
-# What was explored through this activity
-
-in keeping with the given brief of exploring alternate histories and futures 
-We started with a scenario that involved 
-
-1. a thingamajig - an artifact
-2. in a place
-3. with a name
-4. drawing inspiration from an ecological system
-
-in my case 
-
-1. drawing inspiration from an ecological system - ants producing and distributing liquid food
-2. thingamajig - liquid food packets and their decentralised production and delivery system
-3. place - bengal
-4. name - antarsam
-
-
-each of these four required a speculative exploration of its own
-1. ecological system - i imagined a politics of logistics centered around ants producing and distributing liquid food
-2. which led me to the thingamajig of 
-	1. **Intervention 1: Mrutaru or Nectar** - We've harnessed the power of genetics to create a house plant that can generate a perfect nutritional mix when combined with the right ingredients. We estimate that merely three plants in a house can create 200 kilos of liquid food every week for a month.
-	2. **Intervention 2: Annacharkha Machine** - This machine connects to the cycles installed mandatorily in every household in the cities. It transforms the nutritional mix into liquid food through the act of cycling, potentially helping tackle urban female obesity.
-3. place - 
-	1. where would it have significantly altered the current timeline, the bengal famine of 41 and the consecutive famines that hit the country till the 60s. suddenly in the 60s in the current timeline - india encourages the green revolution - i wanted to see if in another timeline, food would have shifted political systems entirely
-	2. i also wanted to explore the material rammifications of such a change on the supply-chain
-		1. i posit that it could have developed into an alternate internet centered around federalising the demand and supply fo food needs down to the neighbourhood/village. i explored a version of a phone that is community-based and shared among the community and primarily deals with food logistics and then with other things
-4. name - i wanted to explore linguistic roots to familiar words like the internet and food processor. The locating in bengal helped me play with the etymology of words to arrive at 
-		1. antar- in between and sam-short for samachar (news) as a word for the internet
-		2. anarcharkha - anar means grain and charkha means a weaving wheel, i wanted to explore how these different metaphors could change the way the technology manifested in this world
-
-Overall this world was a means for me to imagine the knock-on effects on small changes as way of being optimistic about the power of the individual's rage against the machine and the thinly veiled arbitrariness of the systems that we take as cold hard fact
