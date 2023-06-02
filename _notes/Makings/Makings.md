@@ -17,6 +17,7 @@ tags: Index-Page
 - [[Designer's Ace]]
 - [[Designing for an Archival Interface]]
 - [[Facilitating a Design Studio - Overview]]
+- [[How I use Speculative Design in my practice]]
 - [[Innovation For Dummies - A podcast]]
 - [[Invisible Cities - Koramangala]]
 - [[Making The Invisible Visible Around An RO Plant]]
