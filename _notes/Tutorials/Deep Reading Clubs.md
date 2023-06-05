@@ -1,13 +1,10 @@
 ---
-title: "Thread by @utotranslucence
-aliases: ["Thread by @utotranslucence
-linter-yaml-title-alias: "Thread by @utotranslucence
-date created: Tuesday, January 3rd 2023, 6:59:03 pm
-date modified: Wednesday, January 4th 2023, 5:29:48 pm
 created: 2023-05-25T18:02:23-07:00
 updated: 2023-05-25T18:02:23-07:00
 ---
 # Deep Reading Clubs: A Subtle and Wonderful Format
+
+
 https://twitter.com/utotranslucence/status/1285415881120481280
 
 I've had the opportunity to run numerous deep reading club sessions, and I must admit, I've become somewhat obsessed with this format. It brings something new and wonderful to the table in a subtle way that I'd like to explain. So, let's dive into why deep reading clubs are truly amazing.
