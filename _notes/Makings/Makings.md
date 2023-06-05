@@ -9,7 +9,6 @@ tags: Index-Page
 
 # My Projects or Things I Made
 %% Begin Waypoint %%
-1
 - [[Antarsam - Exploring Alternate Histories and Futures]]
 - [[Carefull Collectives and their Care Practices]]
 - [[Carpooling Unalone - Karwaan]]
