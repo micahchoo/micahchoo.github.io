@@ -1,4 +1,5 @@
-
+# How I use Speculative Design in my practice
+#Speculative-Design 
 In a world that often embraces a linear view of progress, it is essential to question the dominant systems and explore alternative ways of thinking and existing. Speculative design provides a powerful framework for challenging the status quo and envisioning diverse futures. By engaging in speculative practices, we can unravel the complexities of our present and shed light on the untapped possibilities that lie beyond. 
 
 ## Unveiling the Illusions of Linear Progress: 
