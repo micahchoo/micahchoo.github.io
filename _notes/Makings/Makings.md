@@ -21,6 +21,7 @@ tags: Index-Page
 - [[Innovation For Dummies - A podcast]]
 - [[Invisible Cities - Koramangala]]
 - [[Making The Invisible Visible Around An RO Plant]]
+- [[My Outreach and Community Work Portfolio]]
 - [[Project Antarsam - An Alternate Dimension of Decentralized Food Production]]
 - [[Public-Makings - Github Repo and Website]]
 - [[Speculative Storytelling in Wayanad]]
