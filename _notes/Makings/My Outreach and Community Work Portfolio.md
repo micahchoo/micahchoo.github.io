@@ -1,30 +1,28 @@
 # Workshops, Classes, and Panels
-### Seeing, Being, Doing: small-letter ‘d’ design- 2022
-*Read More Here-* [[Facilitating a Design Studio - Overview]]
+### [[Facilitating a Design Studio - Overview |Seeing, Being, Doing: small-letter ‘d’ design]] - 2022
 A 4-month studio module for 22 undergraduate interaction design students. Held in two+ sites in India, we explored embodied design praxis. What does it mean to design artistically? Can a designer respond like an artist to their context and allow for more freeform exploration of designed outputs than industry dogma <+ with Navin and Siddhant>
 
-### Beyond Listening - 2022
+### [Beyond Listening]()- 2022
+A 5-day design masterclass on the interface of publishing with non-textual media, what are the politics of sound? How do oral narratives and audial aesthetics come together? How is this important in India, where specifically English read-write-speak literacy is low? *<+ with Bhanu P and Shafali J>*
 
-A 5-day design masterclass on the interface of publishing with non-textual media, what are the politics of sound? How do oral narratives and audial aesthetics come together? How is this important in India, where specifically English read-write-speak literacy is low? <+ with Bhanu P and Shafali J>
+### [Valuing Indispensability: Critically reflecting on Intersectionality in Practice]() - 2022
+3 workshops run in a series of workshops called the Feminist Tech Playground, where we presented how we encounter voices in praxis that are rendered dispensable and dismissed. How do we create spaces where indispensability is the norm? *<+ With Upasana B and Shafali J>*
 
-### Valuing Indispensability: Critically reflecting on Intersectionality in Practice - 2022
-3 workshops run in a series of workshops called the Feminist Tech Playground, where we presented how we encounter voices in praxis that are rendered dispensable and dismissed. How do we create spaces where indispensability is the norm? <+ With Upasana B and Shafali J>
+### [Lived Experience Archives for Champions of the Disability Sector]() - 2022
 
-### Lived Experience Archives for Champions of the Disability Sector - 2022
-
-A full-day workshop was held for regional coordinators of the Disability NGO Alliance to demonstrate different ways for them to start archiving their day-to-day practices and knowledge and how it is valuable to them in their work. <+ With Bhanu, Senjuti and Madhavi>
+A full-day workshop was held for regional coordinators of the Disability NGO Alliance to demonstrate different ways for them to start archiving their day-to-day practices and knowledge and how it is valuable to them in their work. *<+ With Bhanu, Senjuti and Madhavi>*
 
 ### [Alternatives and Demands in Network Ruins](https://twitter.com/dcwalk_/status/1381598287082500100?s=20&t=UQoNcd_xPznfUZlNuWoDbA) **-** **2021**
 
-What can we conjure when the networks lie in ruins? What grows between that which ruins and that which was ruined? A panel talk recounting Servelots/Janastu’s experiments with Community Networks <+ With Shafali J>
+What can we conjure when the networks lie in ruins? What grows between that which ruins and that which was ruined? A panel talk recounting Servelots/Janastu’s experiments with Community Networks *<+ With Shafali J>*
 
 ### [Ways of Seeing: Archives and Annotations](https://www.milli.link/iaw2021/#ways-of-seeing--an-archive-annotation-workshop) **– 2021**
 
-A design demo/workshop on how institutional archives would benefit from an exchange of discovery, annotation, and re-narration and what that means for the nature of locked-up knowledge. A demo of a tool we were building that I was designing for this cross-linking, built on web-annotation standards. <+ with Bhanu, Venkat, Satakshi, Dinesh, Shafali>
+A design demo/workshop on how institutional archives would benefit from an exchange of discovery, annotation, and re-narration and what that means for the nature of locked-up knowledge. A demo of a tool we were building that I was designing for this cross-linking, built on web-annotation standards. *<+ with Bhanu, Venkat, Satakshi, Dinesh, Shafali>*
 
 ### [Design and Social Justice](https://twitter.com/onefuture_india/status/1386285835775987712/photo/1) **– 2021**
 
-A workshop on how design can further/impede the goals of social justice, namely equity. How can we design practices, places, and products that build a momentum of better outcomes for the most marginalized? [+ with Senjuti, Siddhant]
+A workshop on how design can further/impede the goals of social justice, namely equity. How can we design practices, places, and products that build a momentum of better outcomes for the most marginalized? *<+ with Senjuti, Siddhant>*
 
 ### [The Imposter Among Us: A Discussion on the effect of new media on politics](https://twitter.com/blnaveen/status/1321689139327066112?s=20&t=sirx2jX9r_3QYdSMChImuA) **–** **2021**
 
@@ -36,9 +34,9 @@ A workshop was conducted with a larger collective to arrive at a set of principl
 
 # Grant-Based Projects
 
-## Research Associate, Climate Resource Center - 2022
+## [Research Associate, Climate Resource Center]() - 2022
 
-LLNaF was awarded a grant for building a library of Climate Science Practices from the ground up through oral narratives from farmers. I was a Research Associate, interviewing agricultural experts, farmers, and folklore artists. I also did
+LLNaF was awarded a grant for building a library of Climate Science Practices from the ground up through oral narratives from farmers. I was a Research Associate, interviewing agricultural experts, farmers, and folklore artists. 
 
 # Grant-Based Publications
 
