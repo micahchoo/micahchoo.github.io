@@ -3,13 +3,12 @@
 A 4-month studio module for 22 undergraduate interaction design students. Held in two+ sites in India, we explored embodied design praxis. What does it mean to design artistically? Can a designer respond like an artist to their context and allow for more freeform exploration of designed outputs than industry dogma <+ with Navin and Siddhant>
 
 ### [Beyond Listening]()- 2022
-A 5-day design masterclass on the interface of publishing with non-textual media, what are the politics of sound? How do oral narratives and audial aesthetics come together? How is this important in India, where specifically English read-write-speak literacy is low? *<+ with Bhanu P and Shafali J>*
+A 5-day design masterclass on the interface of publishing with non-textual media, what are the politics of sound? How do oral narratives and audial aesthetics come together? How is this important in India, where specifically English read-write-speak literacy is low? This class focused on exploring storytelling through the medium of sound and understanding how sound mediated interactions. Students delved into the world of podcasts, examining the elements of podcast production and the power of sound in storytelling. They also learned about listening, oral history, and different interview methods. The class covered audio editing tools and techniques, allowing students to craft their own audio stories. Additionally, discussions on open source publishing, licenses, and the politics of design were held. The class culminated in a final podcast project, where students planned, produced, and exhibited their own podcasts. Throughout the course, students developed a deep appreciation for the role of sound in storytelling and gained practical skills in audio production and storytelling techniques.*<+ with Bhanu P and Shafali J>*
 
 ### [Valuing Indispensability: Critically reflecting on Intersectionality in Practice]() - 2022
 3 workshops run in a series of workshops called the Feminist Tech Playground, where we presented how we encounter voices in praxis that are rendered dispensable and dismissed. How do we create spaces where indispensability is the norm? *<+ With Upasana B and Shafali J>*
 
-### [Lived Experience Archives for Champions of the Disability Sector]() - 2022
-
+### [[Lived Experience Archives for Champions of the Disability Sector]] - 2022
 A full-day workshop was held for regional coordinators of the Disability NGO Alliance to demonstrate different ways for them to start archiving their day-to-day practices and knowledge and how it is valuable to them in their work. *<+ With Bhanu, Senjuti and Madhavi>*
 
 ### [Alternatives and Demands in Network Ruins](https://twitter.com/dcwalk_/status/1381598287082500100?s=20&t=UQoNcd_xPznfUZlNuWoDbA) **-** **2021**
