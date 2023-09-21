@@ -42,6 +42,7 @@ Beyond the human-centeredness of design, lie the varied and vast untold stories 
 - [The monkey that did everything on his own - Malay](https://prethesis-a3.vercel.app)
 - [Single Screen Theatres - Sakshi Joshi](https://sakshijsh8.wixsite.com/sakshi-joshi/single-screen-theatres)
 - [Chickpet Field Visit - HCD Sem 7 — Felt](https://felt.com/map/Chickpet-Field-Visit-HCD-Sem-7-ekx6paEpSTmd1UZNCTj13B?lat=12.968386&lon=77.577884&zoom=16.41)
+- [Making the Most of Field Research as an Introvert - Pronomika](https://medium.com/@pronamikagoswami/inward-and-onward-making-the-most-of-field-research-as-an-introvert-91babdf496cd)
 
 
 **Designing for Gathering Spaces** is a unique academic course that moves beyond the confines of conventional Human-Centered Design (HCD) to consider the wider environment in which humans and non-human elements interact. It emphasizes on situated making and is taught in an interactive format involving active student engagement with diverse gathering spaces. The course takes a broad view of gathering spaces, incorporating both physical locations such as parks, urban environments, and workplaces, as well as digital spaces and ecosystems. Its approach acknowledges the co-presence of human and non-human actors, encompassing technology, animals, and natural features, among others.
