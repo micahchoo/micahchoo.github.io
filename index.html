@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Micah Alex — tools for archives, maps and writing</title>
+<meta name="description" content="Open-source tools by Micah Alex: skill trees, a South Asian digital history list, city mobility data, annotation platforms for exhibits and maps, and a writing aid.">
+<link rel="canonical" href="https://micahchoo.github.io/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Micah Alex — tools for archives, maps and writing">
+<meta property="og:description" content="Open-source tools for archives, maps, data and writing.">
+<meta property="og:url" content="https://micahchoo.github.io/">
+<link rel="preload" href="/assets/KodeMono.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/PlusJakartaSans.woff2" as="font" type="font/woff2" crossorigin>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Micah Alex","url":"https://khattamicah.xyz/","sameAs":["https://micahchoo.github.io/","https://github.com/micahchoo"]}
+</script>
+<style>
+  @font-face { font-family:'Kode Mono'; font-weight:400 700; font-display:swap;
+    src:url('/assets/KodeMono.woff2') format('woff2'); }
+  @font-face { font-family:'Plus Jakarta Sans'; font-weight:200 800; font-display:swap;
+    src:url('/assets/PlusJakartaSans.woff2') format('woff2'); }
+
+  /* Tokens from khattamicah.xyz, light and dark. */
+  :root {
+    --bg: hsl(240, 12%, 95%);
+    --bg-2: hsl(252, 10%, 90%);
+    --border: hsl(251, 11%, 70%);
+    --border-light: hsl(250, 12%, 80%);
+    --text: hsl(251, 44%, 5%);
+    --text-2: hsl(250, 45%, 30%);
+    --primary: hsl(249, 62%, 50%);
+    --primary-faded: hsl(248, 61%, 90%);
+    --link: hsl(249, 62%, 40%);
+    --link-hover: hsl(249, 62%, 30%);
+    --glow: hsl(185, 100%, 70%);
+    --mono: 'Kode Mono', Menlo, Consolas, monospace;
+    --sans: 'Plus Jakarta Sans', Inter, Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: hsl(260, 12%, 5%); --bg-2: hsl(252, 10%, 10%);
+      --border: hsl(251, 11%, 30%); --border-light: hsl(250, 12%, 20%);
+      --text: hsl(250, 46%, 95%); --text-2: hsl(249, 46%, 70%);
+      --primary: hsl(249, 62%, 70%); --primary-faded: hsl(248, 61%, 10%);
+      --link: hsl(249, 62%, 72%); --link-hover: hsl(249, 62%, 82%);
+      --glow: hsl(185, 100%, 30%);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: hsl(260, 12%, 5%); --bg-2: hsl(252, 10%, 10%);
+    --border: hsl(251, 11%, 30%); --border-light: hsl(250, 12%, 20%);
+    --text: hsl(250, 46%, 95%); --text-2: hsl(249, 46%, 70%);
+    --primary: hsl(249, 62%, 70%); --primary-faded: hsl(248, 61%, 10%);
+    --link: hsl(249, 62%, 72%); --link-hover: hsl(249, 62%, 82%);
+    --glow: hsl(185, 100%, 30%);
+  }
+
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; background: var(--bg); color: var(--text);
+    font-family: var(--sans); font-size: 1rem; line-height: 1.6;
+    -webkit-font-smoothing: antialiased; }
+  main { max-width: 60rem; margin: 0 auto; padding: 4rem 16px 4rem; }
+
+  .hero { text-align: center; padding: 3rem 1rem 2.5rem; margin-bottom: 1.5rem;
+    background: radial-gradient(ellipse at center, var(--bg-2), transparent 70%); }
+  h1 { font-family: var(--mono); font-weight: 700; font-size: clamp(2.5rem, 7vw, 4rem);
+    line-height: 1.1; margin: 0 0 1rem; }
+  .hero p { font-size: clamp(1.1rem, 2.4vw, 1.3rem); max-width: 34ch; margin: 0 auto 1.5rem; }
+  .pills { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; margin: 0; padding: 0; list-style: none; }
+  .pills a { display: inline-flex; align-items: center; min-height: 36px; padding: 0 .9rem;
+    font-family: var(--mono); font-size: .8rem; font-weight: 600; letter-spacing: .08em;
+    text-transform: uppercase; text-decoration: none; color: var(--primary);
+    background: var(--primary-faded); border: 1px solid var(--primary); border-radius: 9999px; }
+  .pills a:hover, .pills a:focus-visible { box-shadow: 0 0 4px var(--glow); outline: none; }
+
+  h2 { font-family: var(--mono); font-weight: 700; font-size: clamp(1.6rem, 4vw, 2.1rem);
+    color: var(--primary); margin: 3rem 0 1.5rem; padding-bottom: .5rem;
+    border-bottom: 2px solid var(--primary); scroll-margin-top: 1rem; }
+  .grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.25rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr)); }
+  .card { position: relative; background: var(--bg-2); border: 1px solid var(--border);
+    border-radius: 6px; padding: 1.25rem 1.25rem 1.1rem; transition: transform 200ms ease-out, box-shadow 200ms ease-out; }
+  .card:hover { transform: translateY(-2px); box-shadow: 0 0 15px var(--glow); }
+  .card h3 { font-family: var(--mono); font-weight: 500; font-size: 1.2rem; line-height: 1.3;
+    margin: 0 0 .5rem; padding-bottom: .5rem; border-bottom: 1px solid var(--border-light); }
+  .card a { color: var(--text); text-decoration: none; }
+  .card a::after { content: ""; position: absolute; inset: 0; border-radius: 6px; }
+  .card a:focus-visible { outline: none; }
+  .card:has(a:focus-visible) { box-shadow: 0 0 0 2px var(--primary); }
+  .card p { margin: 0; color: var(--text-2); }
+
+  footer { margin-top: 3.5rem; padding-top: 1.25rem; border-top: 1px solid var(--border-light);
+    color: var(--text-2); font-size: .95rem; }
+  footer a { color: var(--link); }
+  footer a:hover { color: var(--link-hover); }
+  @media (prefers-reduced-motion: reduce) { .card { transition: none; } .card:hover { transform: none; } }
+</style>
+</head>
+<body>
+<main>
+  <header class="hero">
+    <h1>Micah Alex</h1>
+    <p>Open-source tools for archives, maps, data and writing. Each one runs in your browser.</p>
+    <ul class="pills">
+      <li><a href="#learn">Learn and look up</a></li>
+      <li><a href="#make">Make and annotate</a></li>
+      <li><a href="https://khattamicah.xyz/">khattamicah.xyz</a></li>
+    </ul>
+  </header>
+
+  <h2 id="learn">Learn and look up</h2>
+  <ul class="grid">
+    <li class="card"><h3><a href="/skill-atlas/">Skill Atlas</a></h3>
+      <p>Skill trees for real domains, drawn as a game's skill board. Pick a domain and walk its main quest.</p></li>
+    <li class="card"><h3><a href="/awesome-digital-history-South-Asia/">Awesome Digital History: South Asia</a></h3>
+      <p>A curated list of South Asian digital archives, collections and histories of the digital.</p></li>
+    <li class="card"><h3><a href="/DataViz-for-Indian-Cities/">DataViz for Indian Cities</a></h3>
+      <p>Urban mobility data for Pimpri-Chinchwad: vehicles, buses, traffic and road safety from 2000 to 2025.</p></li>
+    <li class="card"><h3><a href="/open-monosyllabic/">Open Monosyllabic</a></h3>
+      <p>An explorer for one-syllable words that end in a vowel. Pick a sound shape such as /ma/ and see every language that has it.</p></li>
+  </ul>
+
+  <h2 id="make">Make and annotate</h2>
+  <ul class="grid">
+    <li class="card"><h3><a href="/Archie/">Archie</a></h3>
+      <p>Annotate and publish your small archive. A multimedia exhibit platform that publishes as a static site.</p></li>
+    <li class="card"><h3><a href="/atlasdraw/">Atlasdraw</a></h3>
+      <p>Draw on a map. An Excalidraw fork over MapLibre GL, with each shape anchored to a place.</p></li>
+    <li class="card"><h3><a href="/commonplace/">Commonplace</a></h3>
+      <p>A notebook for the internet. Browse any public Are.na channel as a draggable notebook, fully static.</p></li>
+    <li class="card"><h3><a href="/better-writer/">Better Writer</a></h3>
+      <p>You write. It asks you one question about what you just wrote, and never touches your words.</p></li>
+  </ul>
+
+  <footer>
+    Writing and more work at <a href="https://khattamicah.xyz/">khattamicah.xyz</a>.
+    Source on <a href="https://github.com/micahchoo">GitHub</a>.
+  </footer>
+</main>
+</body>
+</html>
