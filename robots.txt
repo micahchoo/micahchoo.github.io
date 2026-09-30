@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://micahchoo.github.io/sitemap.xml
+Sitemap: https://micahchoo.github.io/drum-rudiments/sitemap.xml
